@@ -8,7 +8,7 @@ Análisis en Python de la calibración de las probabilidades de Polymarket en pe
 
 ![Curva de calibración](figuras/calibracion.png)
 
-- **Muestra:** 1.002 peleas de UFC con mercado cerrado en Polymarket (2024--4-13 a 2026-10-18).
+- **Muestra:** 1.002 peleas de UFC con mercado cerrado en Polymarket (2024-4-13 a 2026-10-18).
 - **Favoritos que ganaron:** 69,0 %, frente a una probabilidad media asignada de 67,8 %.
 - **Brier score del mercado:** 0,2016 (IC 95 %: 0,191 a 0,213), frente a 0,25 de predecir siempre 50 %.
 - **Referencia más exigente:** predecir siempre la tasa base del favorito da un Brier de [X], así que el mercado la supera de forma modesta.
