@@ -1,0 +1,1004 @@
+pregunta,peleador_a,peleador_b,prob_a,resultado_a,fecha_fin
+UFC 300: Alex Pereira vs Jamahal Hill,Pereira,Hill,0.545,1,2024-04-13T12:00:00Z
+UFC 300: Bo Nickal vs Cody Brundage,Nickal,Brundage,0.905,1,2024-04-13T12:00:00Z
+UFC 300: Jiri Prochazka vs Aleksandar Rakic,Prochazka,Rakic,0.495,1,2024-04-13T12:00:00Z
+UFC 300: Calvin Kattar vs Aljamain Sterling,Kattar,Sterling,0.405,0,2024-04-13T12:00:00Z
+UFC 300: Arman Tsarukyan vs Charles Oliveira,Tsarukyan,Oliveira,0.65,1,2024-04-13T12:00:00Z
+UFC 300: Zhang Weili vs Yan Xiaonan,Weili,Xiaonan,0.785,1,2024-04-13T12:00:00Z
+UFC 300: Justin Gaethje vs Max Holloway,Gaethje,Holloway,0.59,0,2024-04-13T12:00:00Z
+UFC 302: Islam Makhachev vs. Dustin Poirier,Makhachev,Poirier,0.83,1,2024-06-01T12:00:00Z
+UFC 302: Sean Strickland vs. Paulo Costa,Strickland,Costa,0.69,1,2024-06-01T12:00:00Z
+UFC 302: Kevin Holland vs. Michael Oleksiejczuk,Holland,Oleksiejczuk,0.71,1,2024-06-01T12:00:00Z
+UFC 302: Jailton Almeida vs. Alexandr Romanov,Almeida,Romanov,0.715,1,2024-06-01T12:00:00Z
+UFC 302: Randy Brown vs. Elizeu Zaleski dos Santos,Brown,dos Santos,0.615,1,2024-06-01T12:00:00Z
+UFC 303: Who will win - Alex Pereira vs. Jiri Prochazka?,Pereira,Prochazka,0.575,1,2024-06-29T12:00:00Z
+UFC 303: Who will win - Brian Ortega vs. Diego Lopes?,Ortega,Lopes,0.46,1,2024-06-29T12:00:00Z
+UFC 303: Who will win - Anthony Smith vs. Carlos Ulberg?,Smith,Ulberg,0.505,1,2024-06-29T12:00:00Z
+UFC 303: Who will win - Mayra Bueno Silva vs. Macy Chiasson?,Silva,Chiasson,0.49,0,2024-06-29T12:00:00Z
+UFC 303: Who will win - Ian Machado Garry vs. Michael Page?,Garry,Page,0.6,1,2024-06-29T12:00:00Z
+UFC 303: Who will win - Anthony Smith vs. Roman Dolidze?,Smith,Dolidze,0.435,0,2024-06-29T12:00:00Z
+UFC Fight Night: Namajunas vs. Cortez,Namajunas,Cortez,0.665,1,2024-07-13T12:00:00Z
+UFC Fight Night: Dober vs. Silva,Dober,Silva ,0.495,0,2024-07-13T12:00:00Z
+UFC Fight Night: Ponzinibbio vs. Salikhov,Ponzinibbio,Salikhov,0.655,0,2024-07-13T12:00:00Z
+UFC Fight Night: Bonfim vs. Loosa,Bonfim,Loosa,0.75,1,2024-07-13T12:00:00Z
+UFC Fight Night: Alhassan vs. Brundage,Alhassan,Brundage,0.615,1,2024-07-13T12:00:00Z
+UFC 304: Leon Edwards vs. Belal Muhammad,Edwards,Muhammad,0.7,0,2024-07-27T12:00:00Z
+UFC 304: Tom Aspinall vs. Curtis Blaydes,Aspinall,Blaydes,0.775,1,2024-07-27T12:00:00Z
+UFC 304: King Green vs. Paddy Pimblett,Green,Pimblett,0.52,0,2024-07-27T12:00:00Z
+UFC 304: Muhammad Mokaev vs. Manel Kape,Mokaev,Kape,0.58,1,2024-07-27T12:00:00Z
+UFC 304: Arnold Allen vs. Giga Chikadze,Allen,Chikadze,0.67,1,2024-07-27T12:00:00Z
+UFC Fight Night: Cory Sandhagen vs. Umar Nurmagomedov,Sandhagen,Nurmagomedov,0.26,0,2024-08-03T12:00:00Z
+UFC Fight Night: Shara Magomedov vs. Michal Oleksiejczuk,Magomedov,Oleksiejczuk,0.705,1,2024-08-03T12:00:00Z
+UFC Fight Night: Marlon Vera vs. Deiveson Figueiredo,Vera,Figueiredo,0.415,0,2024-08-03T12:00:00Z
+UFC Fight Night: Tony Ferguson vs. Michael Chiesa,Ferguson,Chiesa,0.22,0,2024-08-03T12:00:00Z
+UFC Fight Night: Mackenzie Dern vs. Loopy Godinez,Dern,Godinez,0.52,1,2024-08-03T12:00:00Z
+UFC Fight Night: Joel Alvarez vs. Elves Brener,Alvarez,Brener,0.61,1,2024-08-03T12:00:00Z
+Du Plessis vs. Adesanya,Du Plessis,Adesanya,0.495,1,2024-08-18T12:00:00Z
+Kara-France vs. Erceg,Kara-France,Erceg,0.385,1,2024-08-18T12:00:00Z
+Gamrot vs. Hooker,Gamrot,Hooker,0.745,0,2024-08-18T12:00:00Z
+Tuivasa vs. Rozenstruik,Tuivasa,Rozenstruik,0.325,0,2024-08-18T12:00:00Z
+Jingliang vs. Prates,Jingliang,Prates,0.245,0,2024-08-18T12:00:00Z
+Cannonier vs. Borralho,Cannonier,Borralho,0.32,0,2024-08-24T12:00:00Z
+Hill vs. Ricci,Hill,Ricci,0.465,0,2024-08-24T12:00:00Z
+Valentin vs. Loder,Valentin,Loder,0.595,0,2024-08-24T12:00:00Z
+Ofli vs. Santos,Ofli,Santos,0.365,0,2024-08-24T12:00:00Z
+Magny vs. Morales,Magny,Morales,0.14,0,2024-08-24T12:00:00Z
+Shahbazyan vs. Meerschaert,Shahbazyan,Meerschaert,0.745,0,2024-08-24T12:00:00Z
+O’Malley vs. Dvalishvili,O’Malley,Dvalishvili,0.56,0,2024-09-14T12:00:00Z
+Grasso vs. Shevchenko,Grasso,Shevchenko,0.56,0,2024-09-14T12:00:00Z
+Ortega vs. Lopes,Ortega,Lopes,0.385,0,2024-09-14T12:00:00Z
+Zellhuber vs. Ribovics,Zellhuber,Ribovics,0.675,0,2024-09-14T12:00:00Z
+Rodriguez vs. Osbourne,Rodriguez,Osbourne,0.615,1,2024-09-14T12:00:00Z
+Moicano vs. Saint Denis,Moicano,Saint Denis,0.285,1,2024-09-28T12:00:00Z
+Imavov vs. Allen,Imavov,Allen,0.67,1,2024-09-28T12:00:00Z
+Gomis vs. Brito,Gomis,Brito,0.275,1,2024-09-28T12:00:00Z
+Pereira vs. Rountree Jr.,Pereira,Rountree Jr.,0.815,1,2024-10-05T12:00:00Z
+Pennington vs. Peña,Pennington,Peña,0.605,0,2024-10-05T12:00:00Z
+Bautista vs. Aldo,Bautista,Aldo,0.57,1,2024-10-05T12:00:00Z
+Harrison vs. Vieira,Harrison,Vieira,0.895,1,2024-10-05T12:00:00Z
+Holland vs. Dolidze,Holland,Dolidze,0.565,0,2024-10-05T12:00:00Z
+Royval vs. Taira,Royval,Taira,0.285,1,2024-10-12T12:00:00Z
+Tavares vs. Park,Tavares,Park,0.355,0,2024-10-12T12:00:00Z
+Njokuani vs. Gooden,Njokuani,Gooden,0.625,1,2024-10-12T12:00:00Z
+Dawson vs. Garcia,Dawson,Garcia,0.775,1,2024-10-12T12:00:00Z
+Rodriguez vs. Morono,Rodriguez,Morono,0.655,1,2024-10-12T12:00:00Z
+Hernandez vs. Pereira,Hernandez,Pereira,0.555,1,2024-10-19T12:00:00Z
+Font vs. Phillips,Font,Phillips,0.215,1,2024-10-19T12:00:00Z
+Johnson vs. Sumudaerji,Johnson,Sumudaerji,0.665,1,2024-10-19T12:00:00Z
+Topuria vs. Holloway,Topuria,Holloway,0.7,1,2024-10-26T12:00:00Z
+Whittaker vs. Chimaev,Whittaker,Chimaev,0.33,0,2024-10-26T12:00:00Z
+Murphy vs. Ige,Murphy,Ige,0.705,1,2024-10-26T12:00:00Z
+Ankalaev vs. Rakic,Ankalaev,Rakic,0.77,1,2024-10-26T12:00:00Z
+Magomedov vs. Petrosyan,Magomedov,Petrosyan,0.63,1,2024-10-26T12:00:00Z
+Magny vs. Prates,Magny,Prates,0.15,0,2024-11-09T12:00:00Z
+Kowalkiewicz vs. Gomes,Kowalkiewicz,Gomes,0.205,0,2024-11-09T12:00:00Z
+Meerschaert vs. de Ridder,Meerschaert,de Ridder,0.27,0,2024-11-09T12:00:00Z
+Pinheiro vs. Robertson,Pinheiro,Robertson,0.225,0,2024-11-09T12:00:00Z
+Jones vs. Miocic,Jones,Miocic,0.85,1,2024-11-16T12:00:00Z
+Oliveira vs. Chandler,Oliveira,Chandler,0.675,1,2024-11-16T12:00:00Z
+Nickal vs. Craig,Nickal,Craig,0.9,1,2024-11-16T12:00:00Z
+Araujo vs. Silva,Araujo,Silva,0.27,1,2024-11-16T12:00:00Z
+Ruffy vs. Llontop,Ruffy,Llontop,0.855,1,2024-11-16T12:00:00Z
+Yan vs. Figueiredo,Yan,Figueiredo,0.725,1,2024-11-23T12:00:00Z
+Yan vs. Ricci,Yan,Ricci,0.64,1,2024-11-23T12:00:00Z
+Song vs. Salikhov,Song,Salikhov,0.38,0,2024-11-23T12:00:00Z
+Cong vs. Fernandes,Cong,Fernandes,0.875,0,2024-11-23T12:00:00Z
+Oezdemir vs. Ulberg,Oezdemir,Ulberg,0.315,0,2024-11-23T12:00:00Z
+Zhang vs. Diaz,Zhang,Diaz,0.725,1,2024-11-23T12:00:00Z
+Pantoja vs. Asakura,Pantoja,Asakura,0.695,1,2024-12-07T12:00:00Z
+Rakhmonov vs. Garry,Rakhmonov,Garry,0.77,1,2024-12-07T12:00:00Z
+Gane vs. Volkov,Gane,Volkov,0.735,1,2024-12-07T12:00:00Z
+Mitchell vs. Gracie,Mitchell,Gracie,0.84,1,2024-12-07T12:00:00Z
+Landwehr vs. Choi,Landwehr,Choi,0.57,0,2024-12-07T12:00:00Z
+Covington vs. Buckley,Covington,Buckley,0.3,0,2024-12-14T12:00:00Z
+Swanson vs. Quarantillo,Swanson,Quarantillo,0.43,1,2024-12-14T12:00:00Z
+Kape vs. Silva,Kape,Silva,0.76,1,2024-12-14T12:00:00Z
+Petrino vs. Jacoby,Petrino,Jacoby,0.735,0,2024-12-14T12:00:00Z
+Yanez vs. Marcos,Yanez,Marcos,0.355,0,2024-12-14T12:00:00Z
+Stirling vs. Tokkos,Stirling,Tokkos,0.86,1,2024-12-14T12:00:00Z
+Dern vs. Ribas,Dern,Ribas,0.365,1,2025-01-11T12:00:00Z
+Ponzinibbio vs. Harris,Ponzinibbio,Harris,0.565,1,2025-01-11T12:00:00Z
+Almeida vs. Alhassan,Almeida,Alhassan,0.695,1,2025-01-11T12:00:00Z
+Curtis vs. Kopylov,Curtis,Kopylov,0.32,0,2025-01-11T12:00:00Z
+Rodriguez vs. Bashi,Rodriguez,Bashi,0.3,1,2025-01-11T12:00:00Z
+Soriano vs. Medic,Soriano,Medic,0.345,1,2025-01-11T12:00:00Z
+Dvalishvili vs. Nurmagomedov,Dvalishvili,Nurmagomedov,0.29,1,2025-01-18T12:00:00Z
+Prochazka vs. Hill,Prochazka,Hill,0.455,1,2025-01-18T12:00:00Z
+Holland vs. de Ridder,Holland,de Ridder,0.495,0,2025-01-18T12:00:00Z
+Adesanya vs. Imavov,Adesanya,Imavov,0.595,0,2025-02-01T12:00:00Z
+Magomedov vs. Page,Magomedov,Page,0.625,0,2025-02-01T12:00:00Z
+Pavlovich vs. Rozenstruik,Pavlovich,Rozenstruik,0.745,1,2025-02-01T12:00:00Z
+Naimov vs. Ofli,Naimov,Ofli,0.72,1,2025-02-01T12:00:00Z
+Du Plessis vs. Strickland,Du Plessis,Strickland,0.655,1,2025-02-08T12:00:00Z
+Weili vs. Suarez,Weili,Suarez,0.475,1,2025-02-08T12:00:00Z
+Tafa vs. Teixeira,Tafa,Teixeira,0.425,0,2025-02-08T12:00:00Z
+Matthews vs. Prado,Matthews,Prado,0.635,1,2025-02-08T12:00:00Z
+Jenkins vs. Santos,Jenkins,Santos,0.335,0,2025-02-08T12:00:00Z
+Nolan vs. Borshchev,Nolan,Borshchev,0.47,1,2025-02-08T12:00:00Z
+Cong vs. Brasil,Cong,Brasil,0.765,1,2025-02-08T12:00:00Z
+Thicknesse vs. Topuria,Thicknesse,Topuria,0.28,0,2025-02-08T12:00:00Z
+Cannonier vs. Rodrigues,Cannonier,Rodrigues,0.325,1,2025-02-15T12:00:00Z
+Kattar vs. Zalal,Kattar,Zalal,0.195,0,2025-02-15T12:00:00Z
+Shahbazyan vs. Budka,Shahbazyan,Budka,0.76,1,2025-02-15T12:00:00Z
+Bonfim vs. Sadykhov,Bonfim,Sadykhov,0.66,0,2025-02-15T12:00:00Z
+Vieira vs. Petroski,Vieira,Petroski,0.695,0,2025-02-15T12:00:00Z
+Matthews vs. Delgado,Matthews,Delgado,0.22,0,2025-02-15T12:00:00Z
+Hill vs. Souza,Hill,Souza,0.48,1,2025-02-15T12:00:00Z
+Estevam vs. Aguilar,Estevam,Aguilar,0.785,1,2025-02-15T12:00:00Z
+Bonfim vs. Williams,Bonfim,Williams,0.645,1,2025-02-15T12:00:00Z
+Morales vs. Smith,Morales,Smith,0.435,0,2025-02-15T12:00:00Z
+Walker vs. Mayes,Walker,Mayes,0.655,1,2025-02-15T12:00:00Z
+Avila vs. Cavalcanti,Avila,Cavalcanti,0.165,0,2025-02-15T12:00:00Z
+Cejudo vs. Song,Cejudo,Song,0.29,0,2025-02-22T12:00:00Z
+Allen vs. Hernandez,Allen,Hernandez,0.26,0,2025-02-22T12:00:00Z
+Silva vs. Baghdasaryan,Silva,Baghdasaryan,0.805,1,2025-02-22T12:00:00Z
+Menifield vs. Walker,Menifield,Walker,0.675,1,2025-02-22T12:00:00Z
+Pereira vs. Ankalaev,Pereira,Ankalaev,0.505,0,2025-03-08T12:00:00Z
+Green vs. Ruffy,Green,Ruffy,0.2,0,2025-03-08T12:00:00Z
+Turner vs. Bahamondes,Turner,Bahamondes,0.46,0,2025-03-08T12:00:00Z
+Lemos vs. Lucindo,Lemos,Lucindo,0.425,1,2025-03-08T12:00:00Z
+Gaethje vs. Fiziev,Gaethje,Fiziev,0.415,1,2025-03-08T12:00:00Z
+Joshua Van vs. Rei Tsuruya,Van,Tsuruya,0.595,1,2025-03-08T12:00:00Z
+Brunno Ferreira vs. Armen Petrosyan,Ferreira,Petrosyan,0.435,1,2025-03-08T12:00:00Z
+Alex Morono vs. Carlos Leal,Morono,Leal,0.145,0,2025-03-08T12:00:00Z
+Mairon Santos vs. Francis Marshall,Santos,Marshall,0.705,1,2025-03-08T12:00:00Z
+Djorden Santos vs. Ozzy Diaz,Santos,Diaz,0.65,0,2025-03-08T12:00:00Z
+Bitlord vs. Korean Jew,Bitlord,Korean Jew,0.585,1,2025-02-20T12:00:00Z
+My Mate Nate vs. Dawood Savage,My Mate Nate,Dawood Savage,0.715,1,2025-02-20T12:00:00Z
+Grimace vs. DoubleYou,Grimace,DoubleYou,0.675,1,2025-02-20T12:00:00Z
+Phoenix Biel vs. Iron Brit,Phoenix Biel,Iron Brit,0.225,1,2025-02-20T12:00:00Z
+sugaR vs. Jack.Poor,sugaR,Jack.Poor,0.475,1,2025-02-20T12:00:00Z
+NFT Kid vs. White Boy Summer,NFT Kid,White Boy Summer,0.425,1,2025-02-20T12:00:00Z
+Marvin Vettori vs. Roman Dolidze,Vettori,Dolidze,0.58,0,2025-03-15T12:00:00Z
+Chidi Njokuani vs. Elizeu Zaleski dos Santos,Njokuani,Zaleski ,0.365,1,2025-03-15T12:00:00Z
+Choi vs. Kevin Vallejos,Choi,Vallejos,0.185,0,2025-03-15T12:00:00Z
+Alexander Hernandez vs. Kurt Holobaugh,Hernandez,Holobaugh,0.63,1,2025-03-15T12:00:00Z
+Da'Mon Blackshear vs. Cody Gibson,Blackshear,Gibson,0.795,1,2025-03-15T12:00:00Z
+Su Young You vs. AJ Cunningham,You,Cunningham,0.835,1,2025-03-15T12:00:00Z
+Leon Edwards vs. Sean Brady,Edwards,Brady,0.415,0,2025-03-22T12:00:00Z
+Gunnar Nelson vs. Kevin Holland,Nelson,Holland,0.545,0,2025-03-22T12:00:00Z
+Molly McCann vs. Alexia Thainara,McCann,Thainara,0.345,0,2025-03-22T12:00:00Z
+Jordan Vucenic vs. Chris Duncan,Vucenic,Duncan,0.78,0,2025-03-22T12:00:00Z
+Nathaniel Wood vs. Morgan Charriere ,Wood,Charriere,0.44,1,2025-03-22T12:00:00Z
+Jai Herbert vs. Chris Padilla ,Herbert,Padilla,0.505,0,2025-03-22T12:00:00Z
+Lone'er Kavanagh vs. Felipe Dos Stanos,Kavanagh,Santos,0.715,1,2025-03-22T12:00:00Z
+Marcin Tybura vs. Mick Parkin,Tybura,Parkin,0.45,1,2025-03-22T12:00:00Z
+Christian Leroy Duncan vs. Andrey Pulyaev,Duncan,Pulyaev,0.82,1,2025-03-22T12:00:00Z
+Shauna Bannon vs. Puja Tomar,Bannon,Tomar,0.59,1,2025-03-22T12:00:00Z
+Nathan Fletcher vs. Caolán Loughran,Fletcher,Loughran,0.525,0,2025-03-22T12:00:00Z
+Guram Kutateladze vs Kauê Fernandes,Kutateladze,Fernandes,0.775,0,2025-03-22T12:00:00Z
+Alexander Volkanovski vs. Diego Lopes,Volkanovski,Lopes,0.555,1,2025-04-12T12:00:00Z
+Michael Chandler vs. Paddy Pimblett,Chandler,Pimblett,0.415,0,2025-04-12T12:00:00Z
+Bryce Mitchell vs. Jean Silva,Mitchell,Silva,0.345,0,2025-04-12T12:00:00Z
+Yair Rodriguez vs. Patricio Pitbull,Rodriguez,Pitbull,0.64,1,2025-04-12T12:00:00Z
+Nikita Krylov vs. Dominick Reyes,Krylov,Reyes,0.605,0,2025-04-12T12:00:00Z
+Dan Ige vs. Sean Woodson,Ige,Woodson,0.385,1,2025-04-12T12:00:00Z
+Yan Xiaonan vs. Virna Jandiroba,Xiaonan,Jandiroba,0.435,0,2025-04-12T12:00:00Z
+Jim Miller vs. Chase Hooper,Miller,Hooper,0.13,0,2025-04-12T12:00:00Z
+Sedriques Dumas vs. Michal Oleksiejczuk,Dumas,Oleksiejczuk,0.365,0,2025-04-12T12:00:00Z
+Darren Elkins vs. Julian Erosa,Elkins,Erosa,0.265,0,2025-04-12T12:00:00Z
+Sumudaerji vs. Mitch Raposo,Mudaerji,Raposo,0.605,1,2025-04-12T12:00:00Z
+Tresean Gore vs. Marco Tulio,Gore,Tulio,0.25,0,2025-04-12T12:00:00Z
+Nora Cornolle vs. Hailey Cowan,Cornolle,Cowan,0.62,1,2025-04-12T12:00:00Z
+Moreno vs. Erceg,Moreno,Erceg,0.675,1,2025-03-29T12:00:00Z
+Torres vs. Dober,Torres,Dober,0.495,1,2025-03-29T12:00:00Z
+Rosas Jr. vs. Morales,Rosas Jr.,Morales,0.8,1,2025-03-29T12:00:00Z
+Martínez vs. Oliveira,Martínez ,Oliveira,0.785,1,2025-03-29T12:00:00Z
+Rodríguez vs. Borjas,Rodríguez,Borjas,0.55,0,2025-03-29T12:00:00Z
+Cháirez vs. Vergara,Cháirez, Vergara,0.7,1,2025-03-29T12:00:00Z
+Medina vs. Gautier,Medina,Gautier,0.215,0,2025-03-29T12:00:00Z
+Rodriguez vs. Costa,Rodriguez,Costa,0.605,0,2025-03-29T12:00:00Z
+Godinez vs. Polastri,Godinez , Polastri,0.705,1,2025-03-29T12:00:00Z
+García vs. Pichel,García ,Pichel,0.795,1,2025-03-29T12:00:00Z
+Emmett vs. Murphy,Emmett,Murphy,0.275,0,2025-04-06T12:00:00Z
+Sabatini vs. Brito,Sabatini,Brito,0.335,1,2025-04-06T12:00:00Z
+Romious vs. Lee,Romious,Lee,0.43,0,2025-04-06T12:00:00Z
+Tavares vs. Meerschaert,Tavares,Meerschaert,0.605,1,2025-04-06T12:00:00Z
+Finney vs. Valentin,Finney,Valentin ,0.72,1,2025-04-06T12:00:00Z
+Osbourne vs. Gurule,Osbourne,Gurule,0.315,1,2025-04-06T12:00:00Z
+McKee vs. Frunza,McKee,Frunza ,0.44,1,2025-04-06T12:00:00Z
+Belbita vs. Barbosa,Belbita,Barbosa,0.12,0,2025-04-06T12:00:00Z
+Henry vs. Falcao,Henry, Falcao ,0.655,1,2025-04-06T12:00:00Z
+Demopoulos vs. Alencar,Demopoulos,Alencar,0.5,0,2025-04-06T12:00:00Z
+Machado Garry vs. Prates,Machado Garry,Prates​,0.585,1,2025-04-27T12:00:00Z
+Smith vs. Mingyang,Smith, Mingyang,0.235,0,2025-04-27T12:00:00Z
+Chikadze vs. Onama,Chikadze, Onama ,0.37,0,2025-04-27T12:00:00Z
+Pereira vs. Magomedov,Pereira ,Magomedov,0.565,0,2025-04-27T12:00:00Z
+Brown vs. Dalby,Brown,Dalby,0.72,1,2025-04-27T12:00:00Z
+Aliskerov vs. Muniz,Aliskerov,Muniz,0.8,1,2025-04-27T12:00:00Z
+Schnell vs. Flick,Schnell,Flick,0.6,1,2025-04-27T12:00:00Z
+Blackshear vs. Alatengheili,Blackshear,Alatengheili ,0.815,1,2025-04-27T12:00:00Z
+Wellmaker vs. Saaiman,Wellmaker, Saaiman,0.53,1,2025-04-27T12:00:00Z
+Amorim vs. Viana,Amorim, Viana,0.86,1,2025-04-27T12:00:00Z
+Chandler vs. Edwards,Chandler,Edwards,0.285,0,2025-04-27T12:00:00Z
+Sandhagen vs. Figueiredo,Sandhagen,Figueiredo,0.815,1,2025-05-04T12:00:00Z
+de Ridder vs. Nickal,de Ridder,Nickal,0.26,1,2025-05-04T12:00:00Z
+Ponzinibbio vs. Rodriguez,Ponzinibbio,Rodriguez,0.56,0,2025-05-04T12:00:00Z
+Jackson vs. Marcos,Jackson,Marcos,0.64,1,2025-05-04T12:00:00Z
+Santos vs. Tate,Santos,Tate,0.47,1,2025-05-04T12:00:00Z
+Smotherman vs. Sidey,Smotherman, Sidey,0.45,0,2025-05-04T12:00:00Z
+Stephens vs. Jones,Stephens,Jones,0.315,0,2025-05-04T12:00:00Z
+Petersen vs. Mayes,Petersen,Mayes,0.745,1,2025-05-04T12:00:00Z
+Bolanos vs. Le,Bolanos,Le,0.54,0,2025-05-04T12:00:00Z
+Rodriguez vs. Robertson,Rodriguez,Robertson,0.3,0,2025-05-04T12:00:00Z
+Loder vs. Bekoev,Loder,Bekoev,0.245,0,2025-05-04T12:00:00Z
+Miller vs. Petrović,Miller ,Petrović,0.325,1,2025-05-04T12:00:00Z
+Muhammad vs. Della Maddalena,Muhammad,Maddalena,0.635,0,2025-05-11T12:00:00Z
+Shevchenko vs. Fiorot,Shevchenko,Fiorot,0.47,1,2025-05-11T12:00:00Z
+Aldo vs. Zahabi,Aldo,Zahabi,0.605,0,2025-05-11T12:00:00Z
+Grasso vs. Silva,Grasso,Silva,0.305,0,2025-05-11T12:00:00Z
+Malott vs. Radtke,Malott, Radtke,0.64,1,2025-05-11T12:00:00Z
+Andrade vs. Jasudavicius,Andrade,Jasudavicius,0.275,0,2025-05-11T12:00:00Z
+Bukauskas vs. Cutelaba,Bukauskas,Cutelaba,0.465,1,2025-05-11T12:00:00Z
+Barriault vs. Silva,Barriault,Silva,0.61,1,2025-05-11T12:00:00Z
+Santos vs. Lee,Santos,Lee,0.43,1,2025-05-11T12:00:00Z
+Katona vs. Almakhan,Katona, Almakhan,0.42,0,2025-05-11T12:00:00Z
+Stirling vs. Erslan,Stirling,Erslan,0.73,1,2025-05-11T12:00:00Z
+Burns vs. Morales,Burns,Morales,0.195,0,2025-05-18T12:00:00Z
+Yusuff vs. Santos,Yusuff,Santos,0.435,0,2025-05-18T12:00:00Z
+Stoltzfus vs. Ruziboev,Stoltzfus,Ruziboev,0.31,0,2025-05-18T12:00:00Z
+Erosa vs. Costa,Erosa,Costa,0.37,0,2025-05-18T12:00:00Z
+Green vs. Camilo,Green,Camilo,0.335,1,2025-05-18T12:00:00Z
+Gordon vs. Moisés,Gordon,Moisés,0.535,1,2025-05-18T12:00:00Z
+Santos vs. Lisboa,Santos,Lisboa,0.61,1,2025-05-18T12:00:00Z
+Reed vs. Gomes,Reed,Gomes,0.165,0,2025-05-18T12:00:00Z
+Park vs. Hernandez,Park,Hernandez,0.65,1,2025-05-18T12:00:00Z
+Pennington vs. Pinheiro,Pennington,Pinheiro,0.725,1,2025-05-18T12:00:00Z
+Gamrot vs. Klein,Gamrot,Klein,0.59,1,2025-06-01T12:00:00Z
+Jacoby vs. Lopes,Jacoby,Lopes,0.645,1,2025-06-01T12:00:00Z
+Reese vs. Todorović,Reese,Todorović,0.655,1,2025-06-01T12:00:00Z
+Filho vs. Nascimento,Filho,Nascimento,0.47,0,2025-06-01T12:00:00Z
+Vieira vs. Chiasson,Vieira,Chiasson,0.44,1,2025-06-01T12:00:00Z
+Holobaugh vs. Leavitt,Holobaugh,Leavitt,0.325,0,2025-06-01T12:00:00Z
+Dos Santos vs. Ardelean,Dos Santos,Ardelean,0.66,0,2025-06-01T12:00:00Z
+Goff vs. Brahimaj,Goff,Brahimaj,0.805,0,2025-06-01T12:00:00Z
+Dvalishvili vs. O'Malley,Dvalishvili,O'Malley,0.72,1,2025-06-08T12:00:00Z
+Pena vs. Harrison,Pena,Harrison,0.165,0,2025-06-08T12:00:00Z
+Gastelum vs. Pyfer,Gastelum,Pyfer,0.255,0,2025-06-08T12:00:00Z
+Bautista vs. Mix,Bautista,Mix ,0.385,1,2025-06-08T12:00:00Z
+Luque vs. Holland,Luque,Holland ,0.335,0,2025-06-08T12:00:00Z
+Silva vs. Van,Silva,Van ,0.17,0,2025-06-08T12:00:00Z
+Murzakanov vs. Ribeiro,Murzakanov,Ribeiro,0.815,1,2025-06-08T12:00:00Z
+Spivac vs. Cortes-Acosta,Spivac,Cortes-Acosta,0.59,0,2025-06-08T12:00:00Z
+da Silva vs. Cong,da Silva,Cong,0.19,0,2025-06-08T12:00:00Z
+Saragih vs. Sang Yoo,Saragih,Sang Yoo,0.19,0,2025-06-08T12:00:00Z
+Salkilld vs. Ashmouz,Salkilld,Ashmouz,0.815,1,2025-06-08T12:00:00Z
+Williams vs. Gustafsson,Williams,Gustafsson,0.59,0,2025-06-08T00:00:00Z
+UFC Fight Night: Usman vs. Buckley,Usman,Buckley,0.3,1,2025-06-15T00:00:00Z
+UFC Fight Night: Namajunas vs. Maverick,Namajunas,Maverick,0.665,1,2025-06-15T00:00:00Z
+UFC Fight Night: Shahbazyan vs. Petroski,Shahbazyan,Petroski,0.57,1,2025-06-15T00:00:00Z
+UFC Fight Night: Garbrandt vs. Barcelos,Garbrandt,Barcelos,0.325,0,2025-06-15T00:00:00Z
+UFC Fight Night: Abdul-Malik vs. Brundage,Abdul-Malik,Brundage,0.87,1,2025-06-15T00:00:00Z
+UFC Fight Night: Menifield vs. Sy,Menifield,Sy,0.145,1,2025-06-15T00:00:00Z
+UFC Fight Night: Chiesa vs. McGee,Chiesa,McGee,0.76,1,2025-06-15T00:00:00Z
+UFC Fight Night: Durden vs. Ochoa,Durden,Ochoa,0.365,0,2025-06-15T00:00:00Z
+UFC Fight Night: Wellmaker vs. Moutinho,Wellmaker,Moutinho,0.925,1,2025-06-15T00:00:00Z
+UFC Fight Night: Rowe vs. Loosa,Rowe,Loosa,0.42,1,2025-06-15T00:00:00Z
+UFC Fight Night: Hill vs. Rountree Jr. ,Hill,Rountree Jr.,0.505,0,2025-06-22T00:00:00Z
+UFC Fight Night: Fiziev vs. Bahamondes,Fiziev,Bahamondes,0.425,1,2025-06-22T00:00:00Z
+UFC Fight Night: Musayev vs. Orolbai,Musayev,Orolbai,0.395,0,2025-06-22T00:00:00Z
+UFC Fight Night: Blaydes vs. Kuniev,Blaydes,Kuniev,0.68,1,2025-06-22T00:00:00Z
+UFC Fight Night: Sadykhov vs. Motta,Sadykhov,Motta,0.765,1,2025-06-22T00:00:00Z
+UFC Fight Night: Naimov vs. Grad,Naimov,Grad,0.68,1,2025-06-22T00:00:00Z
+UFC Fight Night: Ulanbekov vs. Maksum,Ulanbekov,Maksum,0.805,1,2025-06-22T00:00:00Z
+UFC Fight Night: Naurdiev vs. Park,Naurdiev,Park,0.37,0,2025-06-22T00:00:00Z
+UFC Fight Night: Zhelezniakova vs. Mullins,Zhelezniakova,Mullins,0.3,1,2025-06-22T00:00:00Z
+UFC Fight Night: Abdelwahab vs. Usman,Abdelwahab,Usman,0.595,0,2025-06-22T00:00:00Z
+UFC Fight Night: Alekseeva vs. Syguła,Alekseeva,Syguła,0.72,0,2025-06-22T00:00:00Z
+UFC Fight Night: Ko vs. Elliott,Ko,Elliott,0.22,1,2025-06-22T00:00:00Z
+UFC 317: Topuria vs. Oliveira,Topuria,Oliveira,0.775,1,2025-06-29T00:00:00Z
+UFC 317: Pantoja vs. Kara-France,Pantoja,Kara-France,0.68,1,2025-06-29T00:00:00Z
+UFC 317: Royval vs. Van,Royval,Van,0.485,0,2025-06-29T00:00:00Z
+UFC 317: Dariush vs. Moicano,Dariush,Moicano,0.485,1,2025-06-29T00:00:00Z
+UFC 317: Hermansson vs. Rodrigues,Hermansson,Rodrigues,0.345,0,2025-06-29T00:00:00Z
+UFC 317: Araujo vs. Cortez,Araujo,Cortez,0.33,0,2025-06-29T00:00:00Z
+UFC 317: Amil vs. Delgado,Amil,Delgado,0.435,0,2025-06-29T00:00:00Z
+UFC 317: McKinney vs. Borshchev,McKinney,Borshchev,0.605,1,2025-06-29T00:00:00Z
+UFC 317: Talbott vs. Lima,Talbott,Lima,0.385,1,2025-06-29T00:00:00Z
+UFC 317: Price vs. Smith ,Price,Smith,0.075,0,2025-06-29T00:00:00Z
+UFC 317: Diniz vs. Hines ,Diniz ,Hines ,0.71,1,2025-06-29T00:00:00Z
+UFC Fight Night: Lewis vs. Teixeira,Lewis,Teixeira,0.275,1,2025-07-13T00:00:00Z
+UFC Fight Night: Thompson vs. Bonfim,Thompson,Bonfim,0.205,0,2025-07-13T00:00:00Z
+UFC Fight Night: Kattar vs. Garcia,Kattar,Garcia ,0.465,0,2025-07-13T00:00:00Z
+UFC Fight Night: Landwehr vs. Charrière,Landwehr,Charrière,0.29,0,2025-07-13T00:00:00Z
+UFC Fight Night: Petrino vs. Lane,Petrino,Lane ,0.83,1,2025-07-13T00:00:00Z
+UFC Fight Night: Tafa vs. Tokkos,Tafa,Tokkos,0.615,0,2025-07-13T00:00:00Z
+UFC Fight Night: Griffin vs. Curtis,Griffin,Curtis ,0.29,0,2025-07-13T00:00:00Z
+UFC Fight Night: Matthews vs. Njokuani,Matthews ,Njokuani,0.425,1,2025-07-13T00:00:00Z
+UFC Fight Night: Murphy vs. Moura,Murphy,Moura,0.175,0,2025-07-13T00:00:00Z
+UFC Fight Night: Nzechukwu vs. Walker,Nzechukwu,Walker ,0.66,0,2025-07-13T00:00:00Z
+UFC Fight Night: Ramirez vs. Davis,Ramirez ,Davis ,0.11,0,2025-07-13T00:00:00Z
+UFC Fight Night: Kline vs. Martinez,Kline ,Martinez,0.9,1,2025-07-13T00:00:00Z
+UFC 318: Holloway vs. Poirier,Holloway,Poirier,0.535,1,2025-07-20T00:00:00Z
+UFC 318: Costa vs. Kopylov,Costa,Kopylov ,0.315,1,2025-07-20T00:00:00Z
+UFC 318: Holland vs. Rodriguez ,Holland,Rodriguez ,0.825,0,2025-07-20T00:00:00Z
+UFC 318: Ige vs. Pitbull ,Ige ,Pitbull ,0.685,0,2025-07-20T00:00:00Z
+UFC 318: Johnson vs. Zellhuber,Johnson,Zellhuber ,0.175,1,2025-07-20T00:00:00Z
+UFC 318: Phillips vs. Oliveira,Phillips ,Oliveira,0.425,0,2025-07-20T00:00:00Z
+UFC 318: Vettori vs. Allen ,Vettori ,Allen ,0.365,0,2025-07-20T00:00:00Z
+UFC 318: Prado vs. Veretennikov,Prado ,Veretennikov,0.565,0,2025-07-20T00:00:00Z
+UFC 318: Gautier vs. Valentin,Gautier ,Valentin,0.815,1,2025-07-20T00:00:00Z
+UFC 318: Fugitt vs. Dulatov,Fugitt,Dulatov ,0.16,0,2025-07-20T00:00:00Z
+UFC 318: Crute vs. Prachnio,Crute ,Prachnio,0.75,1,2025-07-20T00:00:00Z
+UFC 318: Spann vs. Brzeski,Spann ,Brzeski,0.67,1,2025-07-20T00:00:00Z
+UFC 318: Ferreira vs. McVey,Ferreira,McVey,0.82,1,2025-07-20T00:00:00Z
+UFC 318: Judice vs. Caliari,Judice ,Caliari,0.755,1,2025-07-20T00:00:00Z
+UFC Fight Night: Whittaker vs. de Ridder,Whittaker,de Ridder,0.575,0,2025-07-27T00:00:00Z
+UFC Fight Night: Yan vs. McGhee,Yan,McGhee,0.765,1,2025-07-27T00:00:00Z
+UFC Fight Night: Mitchell vs. Nurmagomedov,Mitchell,Nurmagomedov,0.575,1,2025-07-27T00:00:00Z
+UFC Fight Night: Magomedov vs. Barriault,Magomedov,Barriault,0.825,1,2025-07-27T00:00:00Z
+UFC Fight Night: Krylov vs. Guskov,Krylov,Guskov,0.62,0,2025-07-27T00:00:00Z
+UFC Fight Night: Ribas vs. Ricci,Ribas,Ricci,0.635,0,2025-07-27T00:00:00Z
+UFC Fight Night: Aslan vs. Elekana,Aslan,Elekana,0.71,0,2025-07-27T00:00:00Z
+UFC Fight Night: Almabayev vs. Ochoa,Almabayev,Ochoa,0.505,1,2025-07-27T00:00:00Z
+UFC Fight Night: Yahya vs. Nguyen,Yahya,Nguyen,0.235,0,2025-07-27T00:00:00Z
+UFC Fight Night: Salikhov vs. Leal,Salikhov,Leal,0.19,1,2025-07-27T00:00:00Z
+UFC Fight Night: Grant vs. Blackshear,Grant,Blackshear,0.25,1,2025-07-27T00:00:00Z
+UFC Fight Night: Buday vs. Buchecha,Buday,Buchecha,0.265,1,2025-07-27T00:00:00Z
+UFC Fight Night: Park vs. Taira,Park,Taira,0.25,0,2025-08-03T00:00:00Z
+UFC Fight Night: Rębecki vs. Duncan ,Rębecki,Duncan,0.655,0,2025-08-03T00:00:00Z
+UFC Fight Night: Brener vs. Ribovics,Brener,Ribovics,0.32,0,2025-08-03T00:00:00Z
+UFC Fight Night: Rosa vs. Cornolle,Rosa,Cornolle,0.635,1,2025-08-03T00:00:00Z
+UFC Fight Night: Magny vs. dos Santos,Magny,dos Santos,0.355,1,2025-08-03T00:00:00Z
+UFC Fight Night: Silva vs. Vallejos,Silva,Vallejos,0.23,0,2025-08-03T00:00:00Z
+UFC Fight Night: Nakamura vs. Fletcher,Nakamura,Fletcher,0.79,1,2025-08-03T00:00:00Z
+UFC Fight Night: Vieira vs. Gore ,Vieira,Gore ,0.655,1,2025-08-03T00:00:00Z
+UFC Fight Night: Klein vs. Pulyaev,Klein,Pulyaev,0.415,0,2025-08-03T00:00:00Z
+UFC Fight Night: Estevam vs. Bunes ,Estevam,Bunes,0.825,1,2025-08-03T00:00:00Z
+UFC Fight Night: Rodriguez vs. Souza,Rodriguez,Souza,0.665,1,2025-08-03T00:00:00Z
+UFC Fight Night: Bashi vs. Yannis ,Bashi,Yannis,0.84,1,2025-08-03T00:00:00Z
+UFC Fight Night: Dolidze vs. Hernandez,Dolidze,Hernandez,0.28,0,2025-08-10T00:00:00Z
+UFC Fight Night: Erceg vs. Osbourne,Erceg,Osbourne,0.835,1,2025-08-10T00:00:00Z
+UFC Fight Night: Lucindo vs. Hill,Lucindo,Hill ,0.65,1,2025-08-10T00:00:00Z
+UFC Fight Night: Fili vs. Rodriguez,Fili,Rodriguez,0.325,1,2025-08-10T00:00:00Z
+UFC Fight Night: Johns vs. Matsumoto,Johns,Matsumoto,0.29,0,2025-08-10T00:00:00Z
+UFC Fight Night: Anders vs. Duncan,Anders,Duncan,0.185,0,2025-08-10T00:00:00Z
+UFC Fight Night: Walker vs. Cerqueira,Walker,Cerqueira,0.85,1,2025-08-10T00:00:00Z
+UFC Fight Night: Smith vs. Kazama,Smith,Kazama,0.855,1,2025-08-10T00:00:00Z
+UFC Fight Night: Edwards vs. Cachoeira,Edwards,Cachoeira,0.775,1,2025-08-10T00:00:00Z
+UFC Fight Night: Medic vs. Urbina,Medic,Urbina,0.75,1,2025-08-10T00:00:00Z
+UFC Fight Night: Fernandes vs. Stoliarenko,Fernandes,Stoliarenko,0.79,1,2025-08-10T00:00:00Z
+UFC Fight Night: Brundage vs. McConico,Brundage,McConico,0.61,0,2025-08-10T00:00:00Z
+UFC: Bouafia vs. Santana,Bouafia,Santana,0.675,1,2025-08-13T00:00:00Z
+UFC: Miller vs. Drago ,Miller ,Drago ,0.645,1,2025-08-13T00:00:00Z
+UFC: Mangos vs. da Silva,Mangos,da Silva,0.59,0,2025-08-13T00:00:00Z
+UFC: Ewert vs. Panferov,Ewert,Panferov,0.63,0,2025-08-13T00:00:00Z
+UFC 319: Du Plessis vs. Chimaev,Du Plessis,Chimaev,0.32,0,2025-08-17T00:00:00Z
+UFC 319: Murphy vs. Pico ,Murphy ,Pico ,0.395,1,2025-08-17T00:00:00Z
+UFC 319: Neal vs. Prates ,Neal ,Prates ,0.335,0,2025-08-17T00:00:00Z
+UFC 319: Cannonier vs. Page ,Cannonier,Page ,0.355,0,2025-08-17T00:00:00Z
+UFC 319: Elliott vs. Asakura,Elliott,Asakura,0.255,1,2025-08-17T00:00:00Z
+UFC 319: Meerschaert vs. Oleksiejczuk,Meerschaert,Oleksiejczuk,0.335,0,2025-08-17T00:00:00Z
+UFC 319: Andrade vs. Godinez,Andrade,Godinez,0.435,0,2025-08-17T00:00:00Z
+UFC 319: Hooper vs. Hernandez,Hooper,Hernandez,0.735,0,2025-08-17T00:00:00Z
+UFC 319: Barboza vs. Klose,Barboza,Klose,0.54,0,2025-08-17T00:00:00Z
+UFC 319: Idiris vs. Morales,Idiris,Morales,0.83,0,2025-08-17T00:00:00Z
+UFC 319: Silva vs. Barbosa ,Silva ,Barbosa ,0.65,1,2025-08-17T00:00:00Z
+UFC: Exposito vs. Delano,Exposito,Delano,0.26,0,2025-08-20T00:00:00Z
+UFC: Holmes vs. Rowston,Holmes,Rowston,0.565,0,2025-08-20T00:00:00Z
+UFC: Saikumar vs. Scott ,Saikumar,Scott ,0.275,0,2025-08-20T00:00:00Z
+UFC: Hokit vs. Uriel ,Hokit,Uriel,0.665,1,2025-08-20T00:00:00Z
+UFC: Cuozzi vs. Jimenez,Cuozzi,Jimenez,0.32,0,2025-08-20T00:00:00Z
+UFC Fight Night: Walker vs. Zhang,Walker ,Zhang ,0.22,1,2025-08-24T00:00:00Z
+UFC Fight Night: Ortega vs. Sterling,Ortega ,Sterling ,0.22,0,2025-08-24T00:00:00Z
+UFC Fight Night: Pavlovich vs. Cortes-Acosta,Pavlovich,Acosta ,0.69,1,2025-08-24T00:00:00Z
+UFC Fight Night: Sumudaerji vs. Borjas,Sumudaerji,Borjas,0.59,1,2025-08-24T00:00:00Z
+UFC Fight Night: Nueraji vs. Crosbie,Nueraji,Crosbie ,0.815,1,2025-08-24T00:00:00Z
+UFC Fight Night: Maheshate vs. Young,Maheshate,Young ,0.455,0,2025-08-24T00:00:00Z
+UFC Fight Night: Kavanagh vs. Johnson,Kavanagh,Johnson ,0.7,0,2025-08-24T00:00:00Z
+UFC Fight Night: Rongzhu vs. Hubbard,Rongzhu,Hubbard ,0.725,1,2025-08-24T00:00:00Z
+UFC Fight Night: Pereira vs. Daukaus,Pereira,Daukaus,0.695,0,2025-08-24T00:00:00Z
+UFC Fight Night: Yizha vs. Wilson,Yizha,Wilson ,0.915,1,2025-08-24T00:00:00Z
+UFC Fight Night: Long vs. You,Long ,You ,0.465,0,2025-08-24T00:00:00Z
+UFC Fight Night: Satybaldiev vs. Nurgozhay,Satybaldiev,Nurgozhay,0.495,1,2025-08-24T00:00:00Z
+UFC: Miller vs. Gandra ,Miller ,Gandra ,0.255,0,2025-08-27T00:00:00Z
+UFC: Wilson vs. Barbosa ,Wilson ,Barbosa ,0.165,0,2025-08-27T00:00:00Z
+UFC: Yakhyaev vs. Lorenz ,Yakhyaev,Lorenz ,0.72,1,2025-08-27T00:00:00Z
+UFC: Perez vs. Sousa ,Perez ,Sousa ,0.36,0,2025-08-27T00:00:00Z
+UFC: Johnson vs. Abbey ,Johnson ,Abbey ,0.69,1,2025-08-27T00:00:00Z
+UFC: Congdon vs. Lebosnoyani,Congdon,Lebosnoyani,0.21,0,2025-09-03T00:00:00Z
+UFC: Haig vs. Oleksiejczuk,Haig,Oleksiejczuk,0.26,0,2025-09-03T00:00:00Z
+UFC: Nallo vs. Silva ,Nallo ,Silva ,0.435,1,2025-09-03T00:00:00Z
+UFC: McMillen vs. Mgoyan,McMillen,Mgoyan,0.395,1,2025-09-03T00:00:00Z
+UFC Fight Night: Imavov vs. Borralho,Imavov,Borralho,0.465,1,2025-09-07T00:00:00Z
+UFC Fight Night: Saint Denis vs. Ruffy ,Saint Denis,Ruffy ,0.385,1,2025-09-07T00:00:00Z
+UFC Fight Night: Oki vs. Jones,Oki ,Jones ,0.455,0,2025-09-07T00:00:00Z
+UFC Fight Night: Bukauskas vs. Craig ,Bukauskas,Craig ,0.745,1,2025-09-07T00:00:00Z
+UFC Fight Night: Sy vs. Ribeiro,Sy ,Ribeiro,0.795,1,2025-09-07T00:00:00Z
+UFC Fight Night: Tybura vs. Delija,Tybura,Delija,0.47,0,2025-09-07T00:00:00Z
+UFC Fight Night: Gustafsson vs. Fakhretdinov,Gustafsson,Fakhretdinov,0.54,0,2025-09-07T00:00:00Z
+UFC Fight Night: Gomis vs. Ruchała,Gomis,Ruchała,0.65,1,2025-09-07T00:00:00Z
+UFC Fight Night: Patterson vs. Waters ,Patterson ,Waters ,0.63,1,2025-09-07T00:00:00Z
+UFC Fight Night: Tavares vs. Bryczek,Tavares,Bryczek,0.665,0,2025-09-07T00:00:00Z
+UFC Fight Night: Bannon vs. Hughes ,Bannon ,Hughes ,0.255,0,2025-09-07T00:00:00Z
+UFC Fight Night: Sola vs. McKee,Sola,McKee,0.535,1,2025-09-06T00:00:00Z
+Guarascio vs. Asplund,Guarascio,Asplund,0.575,0,2025-09-11T00:00:00Z
+Teague vs. Douglas,Teague,Douglas,0.18,0,2025-09-11T00:00:00Z
+Franco vs. Vidal,Franco,Vidal,0.805,0,2025-09-11T00:00:00Z
+Blair vs. Sanches,Blair,Sanches,0.515,0,2025-09-11T00:00:00Z
+Dyer vs. Foro,Dyer,Foro,0.62,0,2025-09-11T00:00:00Z
+Noche UFC: Lopes vs. Silva,Lopes,Silva,0.335,1,2025-09-14T00:00:00Z
+Noche UFC: Font vs. Martinez,Font,Martinez,0.515,0,2025-09-14T00:00:00Z
+Noche UFC: Garcia vs. Gordon,Garcia,Gordon,0.335,1,2025-09-14T00:00:00Z
+Noche UFC: Gastelum vs. Stoltzfus,Gastelum,Stoltzfus,0.655,1,2025-09-14T00:00:00Z
+Noche UFC: Hernandez vs. Ferreira,Hernandez,Ferreira,0.485,1,2025-09-14T00:00:00Z
+Noche UFC: Luna vs. Le,Luna,Le,0.565,1,2025-09-14T00:00:00Z
+Noche UFC: Medina vs. Todorović,Medina,Todorović,0.35,0,2025-09-14T00:00:00Z
+Noche UFC: Puelles vs. Silva,Puelles,Silva,0.535,0,2025-09-14T00:00:00Z
+Noche UFC: Suarez vs. Lemos,Suarez,Lemos,0.795,1,2025-09-14T00:00:00Z
+Noche UFC: Aguilar vs. Gurule,Aguilar,Gurule,0.37,1,2025-09-14T00:00:00Z
+Noche UFC: Costa vs. Coria,Costa,Coria,0.785,0,2025-09-14T00:00:00Z
+Noche UFC: Rendon vs. Pereira,Rendon,Pereira,0.425,1,2025-09-14T00:00:00Z
+Noche UFC: Sezinando vs. Donchenko,Sezinando,Donchenko,0.355,0,2025-09-14T00:00:00Z
+UFC Fight Night: Ulberg vs. Reyes,Ulberg,Reyes,0.67,1,2025-09-28T00:00:00Z
+UFC Fight Night: Jenkins vs. Taveras,Jenkins,Taveras,0.715,1,2025-09-28T00:00:00Z
+UFC Fight Night: Crute vs. Erslan,Crute,Erslan,0.675,1,2025-09-28T00:00:00Z
+UFC Fight Night: Matthews vs. Magny,Matthews,Magny,0.765,0,2025-09-28T00:00:00Z
+UFC Fight Night: Stirling vs. Bellato,Stirling,Bellato,0.705,1,2025-09-28T00:00:00Z
+UFC Fight Night: Lookboonmee vs. Thainara,Lookboonmee,Thainara,0.34,0,2025-09-28T00:00:00Z
+UFC Fight Night: Rowston vs. Petroski,Rowston,Petroski,0.38,1,2025-09-28T00:00:00Z
+UFC Fight Night: Thicknesse vs. Musasa,Thicknesse,Musasa,0.435,1,2025-09-28T00:00:00Z
+UFC Fight Night: Mullarkey vs. Bedoya,Mullarkey,Bedoya,0.535,1,2025-09-28T00:00:00Z
+UFC Fight Night: Carolina vs. Montague,Carolina,Montague,0.325,0,2025-09-28T00:00:00Z
+UFC Fight Night: Pericic vs. Ellison,Pericic,Ellison,0.66,1,2025-09-28T00:00:00Z
+Lee vs. Sosa,Lee,Sosa,0.495,0,2025-09-18T00:00:00Z
+Aly vs. Baraniewski,Aly,Baraniewski,0.705,0,2025-09-18T00:00:00Z
+Gantt vs. Livingston,Gantt,Livingston,0.605,1,2025-09-18T00:00:00Z
+Hwang vs. McCorry,Hwang,McCorry,0.325,0,2025-09-18T00:00:00Z
+Uchegbu vs. Chovancek,Uchegbu,Chovancek,0.545,0,2025-09-18T00:00:00Z
+Nurmagomedov vs. Hughes,Nurmagomedov,Hughes,0.76,1,2025-10-03T00:00:00Z
+Anderson vs. Yagshimuradov,Anderson,Yagshimuradov,0.69,1,2025-10-03T00:00:00Z
+Magomedov vs. Pettis,Magomedov,Pettis,0.68,0,2025-10-03T00:00:00Z
+Colgan vs. Wilson,Colgan,Wilson,0.655,1,2025-10-03T00:00:00Z
+Cartwright vs. Loughran,Cartwright,Loughran,0.22,1,2025-10-03T00:00:00Z
+Rahmani vs. Trabelsi,Rahmani,Trabelsi,0.695,1,2025-10-03T00:00:00Z
+El Dafrawy vs. Zendeli,El Dafrawy,Zendeli,0.65,0,2025-10-03T00:00:00Z
+Sardinha vs. Akhtamov,Sardinha,Akhtamov,0.51,0,2025-10-03T00:00:00Z
+Izumi vs. Cenci,Izumi,Cenci,0.3,1,2025-10-03T00:00:00Z
+Zaynukov vs. Mitchell,Zaynukov,Mitchell,0.63,1,2025-10-03T00:00:00Z
+Al-Selawe vs. Babene,Al-Selawe,Babene,0.43,1,2025-10-03T00:00:00Z
+"UFC 322: Makhachev vs. Della Maddalena (Welterweight, Main Card)",Makhachev,Della Maddalena,0.735,1,2025-11-16T04:59:59.999Z
+"UFC 322: Shevchenko vs. Weili (Women's Flyweight, Main Card)",Shevchenko,Weili,0.545,1,2025-11-16T04:59:59.999Z
+"UFC 322: Brady vs. Morales (Welterweight, Main Card)",Brady,Morales,0.565,0,2025-11-16T04:59:59.999Z
+"UFC 322: Edwards vs. Prates (Welterweight, Main Card)",Edwards,Prates,0.4,0,2025-11-16T04:59:59.999Z
+"UFC 322: Dariush vs. Saint Denis (Lightweight, Main Card)",Dariush,Saint Denis,0.365,0,2025-11-16T04:59:59.999Z
+"UFC 322: Vieira vs. Nickal (Middleweight, Prelims)",Vieira,Nickal,0.32,0,2025-11-16T04:59:59.999Z
+"UFC 322: Kopylov vs. Rodrigues (Middleweight, Prelims)",Kopylov,Rodrigues,0.375,0,2025-11-16T04:59:59.999Z
+"UFC 322: Cortez vs. Blanchfield (Women's Flyweight, Prelims)",Cortez,Blanchfield,0.29,0,2025-11-16T04:59:59.999Z
+"UFC 322: Meerschaert vs. Daukaus (Middleweight, Early Prelims)",Meerschaert,Daukaus,0.205,0,2025-11-16T04:59:59.999Z
+"UFC 322: Mariscal vs. Sabatini (Featherweight, Early Prelims)",Mariscal,Sabatini,0.475,0,2025-11-16T04:59:59.999Z
+"UFC 322: Hill vs. Kline (Women's Strawweight, Early Prelims)",Hill,Kline,0.185,0,2025-11-16T04:59:59.999Z
+"UFC 322: McConico vs. Susurkaev (Middleweight, Early Prelims)",McConico,Susurkaev,0.12,0,2025-11-16T04:59:59.999Z
+"UFC Fight Night: Hooker vs. Tsarukyan (Lightweight, Main Card)",Hooker,Tsarukyan,0.145,0,2025-11-23T04:59:59.999Z
+"UFC Fight Night: Muhammad vs. Machado Garry (Welterweight, Main Card)",Muhammad,Machado Garry,0.285,0,2025-11-23T04:59:59.999Z
+"UFC Fight Night: Oezdemir vs. Menifield (Light Heavyweight, Main Card)",Oezdemir,Menifield,0.675,1,2025-11-23T04:59:59.999Z
+"UFC Fight Night: Hermansson vs. Orolbai (Welterweight, Main Card)",Hermansson,Orolbai,0.355,0,2025-11-23T04:59:59.999Z
+"UFC Fight Night: Perez vs. Almabayev (Flyweight, Main Card)",Perez,Almabayev,0.345,0,2025-11-23T04:59:59.999Z
+"UFC Fight Night: Cerqueira vs. Yakhyaev (Light Heavyweight, Prelims)",Cerqueira,Yakhyaev,0.085,0,2025-11-23T04:59:59.999Z
+"UFC Fight Night: Horiguchi vs. Ulanbekov (Flyweight, Prelims)",Horiguchi,Ulanbekov,0.325,1,2025-11-23T04:59:59.999Z
+"UFC Fight Night: Topuria vs. Almakhan (Bantamweight, Prelims)",Topuria,Almakhan,0.545,1,2025-11-23T04:59:59.999Z
+"UFC Fight Night: Naurdiev vs. Loder (Middleweight, Prelims)",Naurdiev,Loder,0.54,1,2025-11-23T04:59:59.999Z
+"UFC Fight Night: Rock vs. Aliev (Lightweight, Prelims)",Rock,Aliev,0.275,0,2025-11-23T04:59:59.999Z
+"UFC Fight Night: Dalby vs. Izagakhmaev (Welterweight, Prelims)",Dalby,Izagakhmaev,0.255,1,2025-11-23T04:59:59.999Z
+"UFC Fight Night: Freeman vs. Bujlo (Heavyweight, Prelims)",Freeman,Bujlo,0.665,1,2025-11-23T04:59:59.999Z
+"UFC Fight Night: Cortes-Acosta vs. Gaziev (Heavyweight, Main Card)",Cortes-Acosta,Gaziev,0.55,1,2025-11-23T04:59:59.999Z
+"UFC 323: Dvalishvili vs. Yan (Bantamweight, Main Card)",Dvalishvili,Yan,0.765,0,2025-12-07T04:59:59.999Z
+"UFC 323: Pantoja vs. Van (Flyweight, Main Card)",Pantoja,Van,0.675,0,2025-12-07T04:59:59.999Z
+"UFC 323: Moreno vs. Taira (Flyweight, Main Card)",Moreno,Taira,0.465,0,2025-12-07T04:59:59.999Z
+"UFC 323: Cejudo vs. Talbott (Bantamweight, Main Card)",Cejudo,Talbott,0.32,0,2025-12-07T04:59:59.999Z
+"UFC 323: Dawson vs. Torres (Lightweight, Prelims)",Dawson,Torres,0.69,0,2025-12-07T04:59:59.999Z
+"UFC 323: McKinney vs. Duncan (Lightweight, Prelims)",McKinney,Duncan,0.48,0,2025-12-07T04:59:59.999Z
+"UFC 323: Silva vs. Barber (Women's Flyweight, Prelims)",Silva,Barber,0.345,0,2025-12-07T04:59:59.999Z
+"UFC 323: Ziam vs. Sadykhov (Lightweight, Prelims)",Ziam,Sadykhov,0.61,1,2025-12-07T04:59:59.999Z
+"UFC 323: Vettori vs. Ferreira (Middleweight, Early Prelims)",Vettori,Ferreira,0.515,0,2025-12-07T04:59:59.999Z
+"UFC 323: Barboza vs. Turner (Lightweight, Early Prelims)",Barboza,Turner,0.235,0,2025-12-07T04:59:59.999Z
+"UFC 323: Aslan vs. Baraniewski (Light Heavyweight, Early Prelims)",Aslan,Baraniewski,0.35,0,2025-12-07T04:59:59.999Z
+"UFC 323: Trocoli vs. Abdul-Malik (Middleweight, Early Prelims)",Trocoli,Abdul-Malik,0.095,0,2025-12-07T04:59:59.999Z
+"UFC 323: Naimov vs. Santos (Featherweight, Early Prelims)",Naimov,Santos,0.305,0,2025-12-07T04:59:59.999Z
+"UFC Fight Night: Kape vs. Royval (Flyweight, Main Card)",Kape,Royval,0.705,1,2025-12-14T04:59:59.999Z
+"UFC Fight Night: Chikadze vs. Vallejos (Featherweight, Main Card)",Chikadze,Vallejos,0.255,0,2025-12-14T04:59:59.999Z
+"UFC Fight Night: Almeida vs. Oleksiejczuk (Middleweight, Main Card)",Almeida,Oleksiejczuk,0.35,0,2025-12-14T04:59:59.999Z
+"UFC Fight Night: Charrière vs. Costa (Featherweight, Main Card)",Charrière,Costa,0.445,0,2025-12-14T04:59:59.999Z
+"UFC Fight Night: Croden vs. Santos (Women's Bantamweight, Prelims)",Croden,Santos,0.43,0,2025-12-14T04:59:59.999Z
+"UFC Fight Night: Magny vs. Amosov (Welterweight, Main Card)",Magny,Amosov,0.22,0,2025-12-14T04:59:59.999Z
+"UFC Fight Night: Pat vs. Frye Jr. (Heavyweight, Main Card)",Pat,Frye Jr.,0.605,1,2025-12-14T04:59:59.999Z
+"UFC Fight Night: Horth vs. Bleda (Women's Flyweight, Prelims)",Horth,Bleda,0.39,1,2025-12-14T04:59:59.999Z
+"UFC Fight Night: Asplund vs. Sharaf (Heavyweight, Main Card)",Asplund,Sharaf,0.685,1,2025-12-14T04:59:59.999Z
+"UFC Fight Night: Green vs. Gibson Jr. (Catchweight, Prelims)",Green,Gibson Jr.,0.61,1,2025-12-14T04:59:59.999Z
+"UFC Fight Night: Brito vs. Thomson (Featherweight, Prelims)",Brito,Thomson,0.69,1,2025-12-14T04:59:59.999Z
+"UFC 324: Gaethje vs. Pimblett (Lightweight, Main Card)",Gaethje,Pimblett,0.315,1,2026-01-25T04:59:59.999Z
+"UFC 324: Yadong vs. O'Malley (Bantamweight, Main Card)",Yadong,O'Malley,0.355,0,2026-01-25T04:59:59.999Z
+"UFC 324: Lewis vs. Cortes-Acosta (Heavyweight, Main Card)",Lewis,Cortes-Acosta,0.255,0,2026-01-25T04:59:59.999Z
+"UFC 324: Allen vs. Silva (Featherweight, Main Card)",Allen,Silva,0.325,0,2026-01-25T04:59:59.999Z
+"UFC 324: Namajunas vs. Silva (Women's Flyweight, Prelims)",Namajunas,Silva,0.255,0,2026-01-25T04:59:59.999Z
+"UFC 324: Figueiredo vs. Nurmagomedov (Bantamweight, Prelims)",Figueiredo,Nurmagomedov,0.105,0,2026-01-25T04:59:59.999Z
+"UFC 324: Pulyaev vs. Gautier (Middleweight, Prelims)",Pulyaev,Gautier,0.125,0,2026-01-25T04:59:59.999Z
+"UFC 324: Krylov vs. Bukauskas (Light Heavyweight, Prelims)",Krylov,Bukauskas,0.445,1,2026-01-25T04:59:59.999Z
+"UFC 324: Perez vs. Johnson (Flyweight, Prelims)",Perez,Johnson,0.39,1,2026-01-25T04:59:59.999Z
+"UFC 324: Hokit vs. Freeman (Heavyweight, Prelims)",Hokit,Freeman,0.675,1,2026-01-25T04:59:59.999Z
+"UFC 324: Fugitt vs. Miller (Welterweight, Early Prelims)",Fugitt,Miller,0.205,0,2026-01-25T04:59:59.999Z
+"UFC 325: Volkanovski vs. Lopes (Featherweight, Main Card)",Volkanovski,Lopes,0.585,1,2026-02-01T08:55:00Z
+"UFC 325: Dan Hooker vs. Benoit Saint Denis (Lightweight, Main Card)",Hooker,Saint Denis,0.255,0,2026-02-01T08:55:00Z
+"UFC 325: Fiziev vs. Ruffy (Lightweight, Main Card)",Fiziev,Ruffy,0.485,0,2026-02-01T04:59:59.999Z
+"UFC 325: Tuivasa vs. Teixeira (Heavyweight, Main Card)",Tuivasa,Teixeira,0.265,0,2026-02-01T08:55:00Z
+"UFC 325: Mullarkey vs. Salkilld (Lightweight, Prelims)",Mullarkey,Salkilld,0.125,0,2026-02-01T08:55:00Z
+"UFC 325: Elekana vs. Tafa (Light Heavyweight, Prelims)",Elekana,Tafa,0.695,1,2026-02-01T04:59:59.999Z
+"UFC 325: Brundage vs. Rowston (Middleweight, Prelims)",Brundage,Rowston,0.245,0,2026-02-01T06:55:00Z
+"UFC 325: Finney vs. Malkoun (Middleweight, Prelims)",Finney,Malkoun,0.44,0,2026-02-01T06:55:00Z
+"UFC 325: Elliott vs. Micallef (Welterweight, Early Prelims)",Elliott,Micallef,0.465,0,2026-02-01T06:55:00Z
+"UFC 325: Sangwook Kim vs. Dom Mar Fan (Lightweight, Early Prelims)",Kim,Mar Fan,0.455,0,2026-02-01T04:59:59.999Z
+"UFC 325: Sebastian Szalay vs. Keiichiro Nakamura (Featherweight, Early Prelims)",Szalay,Nakamura,0.56,0,2026-02-01T04:59:59.999Z
+"UFC Fight Night: Mario Bautista vs. Vinicius Oliveira (Bantamweight, Main Card)",Bautista,Oliveira,0.565,1,2026-02-08T04:59:59.999Z
+"UFC Fight Night: Kyoji Horiguchi vs. Amir Albazi (Flyweight, Main Card)",Horiguchi,Albazi,0.74,1,2026-02-08T04:59:59.999Z
+"UFC Fight Night: Michal Oleksiejczuk vs. Marc-Andre Barriault (Middleweight, Main Card)",Oleksiejczuk,Barriault,0.8,1,2026-02-08T04:59:59.999Z
+"UFC Fight Night: Farid Basharat vs. Jean Matsumoto (Bantamweight, Main Card)",Basharat,Matsumoto,0.72,1,2026-02-08T04:59:59.999Z
+"UFC Fight Night: Bruna Brasil vs. Ketlen Souza (Women's Strawweight, Prelims)",Brasil,Souza,0.43,0,2026-02-08T04:59:59.999Z
+"UFC Fight Night: Wang Cong vs. Eduarda Moura (Women's Flyweight, Prelims)",Cong,Moura,0.755,1,2026-02-08T04:59:59.999Z
+"UFC Fight Night: Priscila Cachoeira vs. Klaudia Sygula (Women's Bantamweight, Prelims)",Cachoeira,Sygula,0.4,0,2026-02-08T04:59:59.999Z
+"UFC Fight Night: Muin Gafurov vs. Jakub Wiklacz (Bantamweight, Prelims)",Gafurov,Wiklacz,0.55,0,2026-02-08T04:59:59.999Z
+"UFC 325: Yizha vs. Kaan Ofli (Featherweight, Early Prelims)",Yizha,Ofli,0.655,0,2026-02-01T04:59:59.999Z
+"UFC 325: Lawrence Lui vs. Sulangrangbo (Bantamweight, Early Prelims)",Lui,Sulangrangbo,0.315,1,2026-02-01T04:59:59.999Z
+"UFC Fight Night: Rizvan Kuniev vs. Jailton Almeida (Heavyweight, Main Card)",Kuniev,Almeida,0.4,1,2026-02-08T04:59:59.999Z
+"UFC Fight Night: Dustin Jacoby vs. Julius Walker (Light Heavyweight, Main Card)",Jacoby,Walker,0.615,1,2026-02-08T04:59:59.999Z
+"UFC Fight Night: Alex Morono vs. Daniil Donchenko (Welterweight, Prelims)",Morono,Donchenko,0.15,0,2026-02-08T04:59:59.999Z
+"UFC Fight Night: Sean Strickland vs. Anthony Hernandez (Middleweight, Main Card)",Strickland,Hernandez,0.295,1,2026-02-22T04:59:59.999Z
+"UFC Fight Night: Dan Ige vs. Melquizael Costa (Featherweight, Main Card)",Ige,Costa,0.335,0,2026-02-22T04:59:59.999Z
+"UFC Fight Night: Ante Delija vs. Serghei Spivac (Heavyweight, Main Card)",Delija,Spivac,0.52,0,2026-02-22T04:59:59.999Z
+"UFC Fight Night: Michel Pereira vs. Zachary Reese (Middleweight, Main Card)",Pereira,Reese,0.62,1,2026-02-22T04:59:59.999Z
+"UFC Fight Night: Chidi Njokuani vs. Carlos Leal (Welterweight, Prelims)",Njokuani,Leal,0.425,0,2026-02-22T04:59:59.999Z
+"UFC Fight Night: Ode' Osbourne vs. Alibi Idiris (Flyweight, Prelims)",Osbourne,Idiris,0.455,0,2026-02-22T04:59:59.999Z
+"UFC Fight Night: Alden Coria vs. Luis Gurule (Flyweight, Prelims)",Coria,Gurule,0.775,1,2026-02-22T04:59:59.999Z
+"UFC Fight Night: Joselyne Edwards vs. Nora Cornolle (Women's Bantamweight, Prelims)",Edwards,Cornolle,0.755,1,2026-02-22T04:59:59.999Z
+"UFC Fight Night: Jordan Leavitt vs. Yadier del Valle (Featherweight, Prelims)",Leavitt,del Valle,0.235,1,2026-02-22T04:59:59.999Z
+"UFC Fight Night: Juliana Miller vs. Carli Judice (Women's Flyweight, Prelims)",Miller,Judice,0.145,0,2026-02-22T04:59:59.999Z
+"UFC Fight Night: Niko Price vs. Nikolay Veretennikov (Welterweight, Main Card)",Price,Veretennikov,0.285,0,2026-02-08T04:59:59.999Z
+"UFC Fight Night: Javid Basharat vs. Gianni Vazquez (Bantamweight, Prelims)",Basharat,Vazquez,0.875,1,2026-02-08T04:59:59.999Z
+"UFC Fight Night: Brandon Moreno vs. Lone'er Kavanagh (Flyweight, Main Card)",Moreno,Kavanagh,0.645,0,2026-03-01T04:59:59.999Z
+"UFC Fight Night: Marlon Vera vs. David Martinez (Bantamweight, Main Card)",Vera,Martinez,0.285,0,2026-03-01T04:59:59.999Z
+"UFC Fight Night: King Green vs. Daniel Zellhuber (Lightweight, Main Card)",Green,Zellhuber,0.235,1,2026-03-01T04:59:59.999Z
+"UFC Fight Night: Felipe Bunes vs. Édgar Cháirez (Flyweight, Main Card)",Bunes,Cháirez,0.275,0,2026-03-01T04:59:59.999Z
+"UFC Fight Night: Kevin Borjas vs. Imanol Rodriguez (Flyweight, Main Card)",Borjas,Rodriguez,0.215,0,2026-03-01T04:59:59.999Z
+"UFC Fight Night: Angel Pacheco vs. Santiago Luna (Bantamweight, Main Card)",Pacheco,Luna,0.155,0,2026-03-01T04:59:59.999Z
+"UFC Fight Night: Jose Daniel Medina vs. Ryan Gandra (Middleweight, Prelims)",Medina,Gandra,0.155,0,2026-03-01T04:59:59.999Z
+"UFC Fight Night: Macy Chiasson vs. Ailin Perez (Women's Bantamweight, Prelims)",Chiasson,Perez,0.385,0,2026-03-01T04:59:59.999Z
+"UFC Fight Night: Francis Marshall vs. Erik Silva (Featherweight, Prelims)",Marshall,Silva,0.865,1,2026-03-01T04:59:59.999Z
+"UFC Fight Night: Kris Moutinho vs. Cristian Quiñonez (Bantamweight, Prelims)",Moutinho,Quiñonez,0.165,0,2026-03-01T04:59:59.999Z
+"UFC Fight Night: Wes Schultz vs. Damian Pinas (Middleweight, Prelims)",Schultz,Pinas,0.305,0,2026-03-01T04:59:59.999Z
+"UFC Fight Night: Douglas Silva de Andrade vs. Javier Reyes (Featherweight, Prelims)",Silva de Andrade,Reyes,0.315,0,2026-03-01T04:59:59.999Z
+"UFC Fight Night: Geoff Neal vs. Uros Medic (Welterweight, Prelims)",Geoff Neal,Uros Medic,0.645,0,2026-02-22T04:59:59.999Z
+"UFC Fight Night: Josiah Harrell vs. Jacobe Smith (Welterweight, Main Card)",Josiah Harrell,Jacobe Smith,0.255,0,2026-02-22T04:59:59.999Z
+"UFC 326: Charles Oliveira vs. Max Holloway (Lightweight, Main Card)",Charles Oliveira,Max Holloway,0.355,1,2026-03-08T04:59:59.999Z
+"UFC 326: Reinier de Ridder vs. Caio Borralho (Middleweight, Main Card)",Reinier de Ridder,Caio Borralho,0.34,0,2026-03-08T04:59:59.999Z
+"UFC 326: Cody Garbrandt vs. Xiao Long (Bantamweight, Prelims)",Cody Garbrandt,Xiao Long,0.405,1,2026-03-08T04:59:59.999Z
+"UFC Fight Night: Ramiz Brahimaj vs. Punahele Soriano (Welterweight, Prelims)",Ramiz Brahimaj,Punahele Soriano,0.51,0,2026-02-22T04:59:59.999Z
+"UFC Fight Night: Phil Rowe vs. Jean-Paul Lebosnoyani (Welterweight, Prelims)",Phil Rowe,Jean-Paul Lebosnoyani,0.345,0,2026-02-22T04:59:59.999Z
+"UFC 326: Rob Font vs. Raul Rosas Jr. (Bantamweight, Main Card)",Rob Font,Raul Rosas Jr.,0.295,0,2026-03-08T04:59:59.999Z
+"UFC 326: Gregory Rodrigues vs. Brunno Ferreira (Middleweight, Main Card)",Gregory Rodrigues,Brunno Ferreira,0.595,1,2026-03-08T04:59:59.999Z
+"UFC 326: Cody Durden vs. Nyamjargal Tumendemberel (Flyweight, Prelims)",Cody Durden,Nyamjargal Tumendemberel,0.395,0,2026-03-08T04:59:59.999Z
+ MVP Fight Night: Ronda Rousey vs. Gina Carano,Rousey,Carano,0.797,1,2026-05-17T00:00:00Z
+"UFC Fight Night: Ernesta Kareckaite vs. Regina Tarin (Catchweight, Prelims)",Ernesta Kareckaite,Regina Tarin,0.595,0,2026-03-01T04:59:59.999Z
+"UFC 326: Diyar Nurgozhay vs. Rafael Tobias (Light Heavyweight, Prelims)",Diyar Nurgozhay,Rafael Tobias,0.365,1,2026-03-08T04:59:59.999Z
+"UFC 326: Ricky Turcios vs. Alberto Montes (Featherweight, Prelims)",Ricky Turcios,Alberto Montes,0.365,0,2026-03-08T04:59:59.999Z
+"UFC 326: Michael Johnson vs. Drew Dober (Lightweight, Main Card)",Michael Johnson,Drew Dober,0.515,0,2026-03-08T04:59:59.999Z
+"UFC 326: Cody Brundage vs. Donte Johnson (Middleweight, Prelims)",Cody Brundage,Donte Johnson,0.135,0,2026-03-08T04:59:59.999Z
+"UFC 326: Rodolfo Bellato vs. Luke Fernandez (Light Heavyweight, Early Prelims)",Rodolfo Bellato,Luke Fernandez,0.335,1,2026-03-08T04:59:59.999Z
+"UFC Fight Night: Josh Emmett vs. Kevin Vallejos (Featherweight, Main Card)",Josh Emmett,Kevin Vallejos,0.195,0,2026-03-15T03:59:59.999Z
+"UFC Fight Night: Gillian Robertson vs. Amanda Lemos (Women's Strawweight, Main Card)",Gillian Robertson,Amanda Lemos,0.665,1,2026-03-15T03:59:59.999Z
+"UFC Fight Night: Ion Cutelaba vs. Oumar Sy (Light Heavyweight, Main Card)",Ion Cutelaba,Oumar Sy,0.295,1,2026-03-15T03:59:59.999Z
+"UFC Fight Night: Harry Hardwick vs. Marwan Rahiki (Featherweight, Main Card)",Harry Hardwick,Marwan Rahiki,0.305,0,2026-03-15T03:59:59.999Z
+"UFC Fight Night: Luan Lacerda vs. Hecher Sosa (Bantamweight, Prelims)",Luan Lacerda,Hecher Sosa,0.335,0,2026-03-15T03:59:59.999Z
+"UFC Fight Night: Montserrat Rendon vs. Bia Mesquita (Women's Bantamweight, Prelims)",Montserrat Rendon,Bia Mesquita,0.165,0,2026-03-15T03:59:59.999Z
+"UFC Fight Night: Sam Hughes vs. Piera Rodriguez (Women's Strawweight, Prelims)",Sam Hughes,Piera Rodriguez,0.435,0,2026-03-15T03:59:59.999Z
+"UFC Fight Night: Bruno Silva vs. Charles Johnson (Flyweight, Prelims)",Bruno Silva,Charles Johnson,0.415,0,2026-03-15T03:59:59.999Z
+"UFC Fight Night: SuYoung You vs. Elijah Smith (Bantamweight, Prelims)",SuYoung You,Elijah Smith,0.3,0,2026-03-15T03:59:59.999Z
+"UFC Fight Night: Manoel Sousa vs. Bolaji Oki (Lightweight, Prelims)",Manoel Sousa,Bolaji Oki,0.7,1,2026-03-15T03:59:59.999Z
+"UFC Fight Night: Vitor Petrino vs. Steven Asplund (Heavyweight, Prelims)",Vitor Petrino,Steven Asplund,0.68,1,2026-03-15T03:59:59.999Z
+"UFC Fight Night: Andre Fili vs. Jose Miguel Delgado (Featherweight, Prelims)",Andre Fili,Jose Miguel Delgado,0.21,0,2026-03-15T03:59:59.999Z
+"UFC Fight Night: Movsar Evloev vs. Lerone Murphy (Featherweight, Main Card)",Movsar Evloev,Lerone Murphy,0.675,1,2026-03-22T03:59:59.999Z
+"UFC Fight Night: Luke Riley vs. Michael Aswell (Featherweight, Main Card)",Luke Riley,Michael Aswell,0.645,1,2026-03-22T03:59:59.999Z
+"UFC Fight Night: Michael Page vs. Sam Patterson (Welterweight, Main Card)",Michael Page,Sam Patterson,0.635,1,2026-03-22T03:59:59.999Z
+"UFC Fight Night: Austen Lane vs. Iwo Baraniewski (Light Heavyweight, Main Card)",Austen Lane,Iwo Baraniewski,0.165,0,2026-03-22T03:59:59.999Z
+"UFC Fight Night: Roman Dolidze vs. Christian Leroy Duncan (Middleweight, Main Card)",Roman Dolidze,Christian Leroy Duncan,0.215,0,2026-03-22T03:59:59.999Z
+"UFC Fight Night: Danny Silva vs. Kurtis Campbell (Featherweight, Main Card)",Danny Silva,Kurtis Campbell,0.32,1,2026-03-22T03:59:59.999Z
+"UFC Fight Night: Mason Jones vs. Axel Sola (Lightweight, Prelims)",Mason Jones,Axel Sola,0.57,1,2026-03-22T03:59:59.999Z
+"UFC Fight Night: Nathaniel Wood vs. Losene Keita (Featherweight, Prelims)",Nathaniel Wood,Losene Keita,0.295,1,2026-03-22T03:59:59.999Z
+"UFC Fight Night: Louie Sutherland vs. Brando Pericic (Heavyweight, Prelims)",Louie Sutherland,Brando Pericic,0.305,0,2026-03-22T03:59:59.999Z
+"UFC Fight Night: Antonio Trocoli vs. Mantas Kondratavicius (Middleweight, Prelims)",Antonio Trocoli,Mantas Kondratavicius,0.135,0,2026-03-22T03:59:59.999Z
+"UFC Fight Night: Abdul-Kareem Al-Selwady vs. Shem Rock (Lightweight, Prelims)",Abdul-Kareem Al-Selwady,Shem Rock,0.465,1,2026-03-22T03:59:59.999Z
+"UFC Fight Night: Shanelle Dyer vs. Ravena Oliveira (Women's Strawweight, Prelims)",Shanelle Dyer,Ravena Oliveira,0.815,1,2026-03-22T03:59:59.999Z
+"UFC Fight Night: Mario Pinto vs. Felipe Franco (Heavyweight, Prelims)",Mario Pinto,Felipe Franco,0.86,1,2026-03-22T03:59:59.999Z
+"UFC 326: Sumudaerji  vs. Jesus Aguilar (Flyweight, Early Prelims)",Sumudaerji ,Jesus Aguilar,0.645,1,2026-03-08T04:59:59.999Z
+"UFC Fight Night: Israel Adesanya vs. Joe Pyfer (Middleweight, Main Card)",Israel Adesanya,Joe Pyfer,0.575,0,2026-03-29T03:59:59.999Z
+"UFC Fight Night: Alexa Grasso vs. Maycee Barber (Women's Flyweight, Main Card)",Alexa Grasso,Maycee Barber,0.365,1,2026-03-29T03:59:59.999Z
+"UFC Fight Night: Chase Hooper vs. Lance Gibson Jr. (Lightweight, Main Card)",Chase Hooper,Lance Gibson Jr.,0.745,0,2026-03-29T03:59:59.999Z
+"UFC Fight Night: Bruno Lopes vs. Navajo Stirling (Light Heavyweight, Main Card)",Bruno Lopes,Navajo Stirling,0.155,0,2026-03-29T03:59:59.999Z
+"UFC Fight Night: Yousri Belgaroui vs. Mansur Abdul-Malik (Middleweight, Prelims)",Yousri Belgaroui,Mansur Abdul-Malik,0.465,1,2026-03-29T03:59:59.999Z
+"UFC Fight Night: Casey O'Neill vs. Gabriella Fernandes (Women's Flyweight, Prelims)",Casey O'Neill,Gabriella Fernandes,0.525,1,2026-03-29T03:59:59.999Z
+"UFC Fight Night: Julian Erosa vs. Lerryan Douglas (Featherweight, Prelims)",Julian Erosa,Lerryan Douglas,0.25,0,2026-03-29T03:59:59.999Z
+"UFC Fight Night: Kyle Nelson vs. Terrance McKinney (Lightweight, Main Card)",Kyle Nelson,Terrance McKinney,0.375,0,2026-03-29T03:59:59.999Z
+"UFC Fight Night: Brad Tavares vs. Eryk Anders (Middleweight, Prelims)",Brad Tavares,Eryk Anders,0.485,0,2026-03-15T03:59:59.999Z
+"UFC Fight Night: Chris Curtis vs. Myktybek Orolbai (Welterweight, Prelims)",Chris Curtis,Myktybek Orolbai,0.26,0,2026-03-15T03:59:59.999Z
+"UFC Fight Night: Bruna Brasil vs. Alexia Thainara (Women's Strawweight, Prelims)",Bruna Brasil,Alexia Thainara,0.135,0,2026-03-29T03:59:59.999Z
+"UFC Fight Night: Michael Chiesa vs. Niko Price (Welterweight, Main Card)",Michael Chiesa,Niko Price,0.855,1,2026-03-29T03:59:59.999Z
+"UFC Fight Night: Ignacio Bahamondes vs. Tofiq Musayev (Lightweight, Prelims)",Ignacio Bahamondes,Tofiq Musayev,0.725,0,2026-03-29T03:59:59.999Z
+"UFC Fight Night: Marcin Tybura vs. Tyrell Fortune (Heavyweight, Prelims)",Marcin Tybura,Tyrell Fortune,0.455,0,2026-03-29T03:59:59.999Z
+"UFC Fight Night: Renato Moicano vs. Chris Duncan (Lightweight, Main Card)",Renato Moicano,Chris Duncan,0.415,1,2026-04-05T03:59:59.999Z
+"UFC Fight Night: Virna Jandiroba vs. Tabatha Ricci (Women's Strawweight, Main Card)",Virna Jandiroba,Tabatha Ricci,0.535,1,2026-04-05T03:59:59.999Z
+"UFC Fight Night: Brendson Ribeiro vs. Abdul-Rakhman Yakhyaev (Light Heavyweight, Main Card)",Brendson Ribeiro,Abdul-Rakhman Yakhyaev,0.095,0,2026-04-05T03:59:59.999Z
+"UFC Fight Night: Ethyn Ewing vs. Rafael Estevam (Bantamweight, Main Card)",Ethyn Ewing,Rafael Estevam,0.545,1,2026-04-05T03:59:59.999Z
+"UFC Fight Night: Manolo Zecchini vs. Tommy McMillen (Featherweight, Main Card)",Manolo Zecchini,Tommy McMillen,0.115,0,2026-04-05T03:59:59.999Z
+"UFC Fight Night: Thomas Petersen vs. Guilherme Pat (Heavyweight, Prelims)",Thomas Petersen,Guilherme Pat,0.515,1,2026-04-05T03:59:59.999Z
+"UFC Fight Night: Jose Delano vs. Robert Ruchala (Featherweight, Prelims)",Jose Delano,Robert Ruchala,0.715,1,2026-04-05T03:59:59.999Z
+"UFC Fight Night: Alessandro Costa vs. Stewart Nicoll (Flyweight, Prelims)",Alessandro Costa,Stewart Nicoll,0.775,1,2026-04-05T03:59:59.999Z
+"UFC Fight Night: Lando Vannata vs. Darrius Flowers (Lightweight, Prelims)",Lando Vannata,Darrius Flowers,0.66,0,2026-04-05T03:59:59.999Z
+"UFC Fight Night: Hailey Cowan vs. Alice Pereira (Women's Bantamweight, Prelims)",Hailey Cowan,Alice Pereira,0.455,0,2026-04-05T03:59:59.999Z
+"UFC Fight Night: Tresean Gore vs. Azamat Bekoev (Middleweight, Prelims)",Tresean Gore,Azamat Bekoev,0.165,1,2026-04-05T03:59:59.999Z
+"UFC Fight Night: Melissa Gatto vs. Dione Barbosa (Women's Flyweight, Prelims)",Melissa Gatto,Dione Barbosa,0.475,0,2026-04-05T03:59:59.999Z
+"UFC 327: Jirí Procházka vs. Carlos Ulberg (Light Heavyweight, Main Card)",Jirí Procházka,Carlos Ulberg,0.505,0,2026-04-12T03:59:59.999Z
+"UFC 327: Curtis Blaydes vs. Josh Hokit (Heavyweight, Main Card)",Curtis Blaydes,Josh Hokit,0.515,0,2026-04-12T03:59:59.999Z
+"UFC 327: Johnny Walker vs. Dominick Reyes (Light Heavyweight, Main Card)",Johnny Walker,Dominick Reyes,0.405,0,2026-04-12T03:59:59.999Z
+"UFC 327: Paulo Costa vs. Azamat Murzakanov (Light Heavyweight, Main Card)",Paulo Costa,Azamat Murzakanov,0.325,1,2026-04-12T03:59:59.999Z
+"UFC 327: Patricio Pitbull vs. Aaron Pico (Featherweight, Prelims)",Patricio Pitbull,Aaron Pico,0.305,0,2026-04-12T03:59:59.999Z
+"UFC 327: Cub Swanson vs. Nate Landwehr (Featherweight, Prelims)",Cub Swanson,Nate Landwehr,0.515,1,2026-04-12T03:59:59.999Z
+"UFC 327: Mateusz Gamrot vs. Esteban Ribovics (Lightweight, Prelims)",Mateusz Gamrot,Esteban Ribovics,0.655,1,2026-04-12T03:59:59.999Z
+"UFC 327: Kevin Holland vs. Randy Brown (Welterweight, Prelims)",Kevin Holland,Randy Brown,0.495,1,2026-04-12T03:59:59.999Z
+"UFC 327: Tatiana Suarez vs. Loopy Godínez (Women's Strawweight, Early Prelims)",Tatiana Suarez,Loopy Godínez,0.585,1,2026-04-12T03:59:59.999Z
+"UFC 327: Kelvin Gastelum vs. Vicente Luque (Middleweight, Early Prelims)",Kelvin Gastelum,Vicente Luque,0.695,0,2026-04-12T03:59:59.999Z
+"UFC Fight Night: Gilbert Burns vs. Mike Malott (Welterweight, Main Card)",Gilbert Burns,Mike Malott,0.285,0,2026-04-19T03:59:59.999Z
+"UFC Fight Night: Karine Silva vs. Jasmine Jasudavicius (Women's Flyweight, Main Card)",Karine Silva,Jasmine Jasudavicius,0.275,0,2026-04-19T03:59:59.999Z
+"UFC Fight Night: Daria Zhelezniakova vs. Melissa Croden (Women's Bantamweight, Prelims)",Daria Zhelezniakova,Melissa Croden,0.455,0,2026-04-19T03:59:59.999Z
+"UFC Fight Night: Robert Valentin vs. Julien LeBlanc (Middleweight, Main Card)",Robert Valentin,Julien LeBlanc,0.605,1,2026-04-19T03:59:59.999Z
+"UFC Fight Night: Tanner Boser vs. Gokhan Saricam (Heavyweight, Main Card)",Tanner Boser,Gokhan Saricam,0.415,0,2026-04-19T03:59:59.999Z
+"UFC Fight Night: Kyler Phillips vs. Charles Jourdain (Bantamweight, Main Card)",Kyler Phillips,Charles Jourdain,0.455,0,2026-04-19T03:59:59.999Z
+"UFC Fight Night: JJ Aldrich vs. Jamey-Lyn Horth (Women's Flyweight, Prelims)",JJ Aldrich,Jamey-Lyn Horth,0.415,1,2026-04-19T03:59:59.999Z
+"UFC Fight Night: Mandel Nallo vs. Jai Herbert (Lightweight, Main Card)",Mandel Nallo,Jai Herbert,0.605,0,2026-04-19T03:59:59.999Z
+"UFC Fight Night: Kai Kamaka III vs. Dakota Hope (Lightweight, Prelims)",Kai Kamaka III,Dakota Hope,0.585,1,2026-04-05T03:59:59.999Z
+"UFC Fight Night: Thiago Moises vs. Gauge Young (Lightweight, Prelims)",Thiago Moises,Gauge Young,0.415,0,2026-04-19T03:59:59.999Z
+"UFC Fight Night: Dennis Buzukja vs. Marcio Barbosa (Featherweight, Prelims)",Dennis Buzukja,Marcio Barbosa,0.215,0,2026-04-19T03:59:59.999Z
+"UFC Fight Night: Aljamain Sterling vs. Youssef Zalal (Featherweight, Main Card)",Aljamain Sterling,Youssef Zalal,0.455,1,2026-04-26T03:59:59.999Z
+"UFC Fight Night: Davey Grant vs. Adrian Luna Martinetti (Bantamweight, Main Card)",Davey Grant,Adrian Luna Martinetti,0.525,1,2026-04-26T03:59:59.999Z
+"UFC Fight Night: Joselyne Edwards vs. Norma Dumont (Women's Bantamweight, Main Card)",Joselyne Edwards,Norma Dumont,0.355,1,2026-04-26T03:59:59.999Z
+"UFC Fight Night: Eric McConico vs. Rodolfo Vieira (null, Prelims)",Eric McConico,Rodolfo Vieira,0.275,1,2026-04-26T03:59:59.999Z
+"UFC Fight Night: Raoni Barcelos vs. Montel Jackson (Bantamweight, Main Card)",Raoni Barcelos,Montel Jackson,0.385,1,2026-04-26T03:59:59.999Z
+"UFC Fight Night: Julia Polastri vs. Talita Alencar (Women's Strawweight, Prelims)",Julia Polastri,Talita Alencar,0.685,0,2026-04-26T03:59:59.999Z
+"UFC Fight Night: Mayra Bueno Silva vs. Michelle Montague (Women's Bantamweight, Prelims)",Mayra Bueno Silva,Michelle Montague,0.225,0,2026-04-26T03:59:59.999Z
+"UFC Fight Night: Sedriques Dumas vs. Jackson McVey (Middleweight, Prelims)",Sedriques Dumas,Jackson McVey,0.375,0,2026-04-26T03:59:59.999Z
+"UFC 327: Charles Radtke vs. Francisco Prado (Welterweight, Early Prelims)",Charles Radtke,Francisco Prado,0.625,1,2026-04-12T03:59:59.999Z
+"UFC Fight Night: Jamie Siraj vs. John Yannis (Bantamweight, Prelims)",Jamie Siraj,John Yannis,0.695,0,2026-04-19T03:59:59.999Z
+"UFC Fight Night: Alexander Hernandez vs. Rafa Garcia (Lightweight, Prelims)",Alexander Hernandez,Rafa Garcia,0.525,0,2026-04-26T03:59:59.999Z
+"UFC Fight Night: Ryan Spann vs. Marcus Buchecha (Heavyweight, Prelims)",Ryan Spann,Marcus Buchecha,0.425,1,2026-04-26T03:59:59.999Z
+"UFC Fight Night: Carlos Prates vs. Jack Della Maddalena (Welterweight, Main Card)",Carlos Prates,Jack Della Maddalena,0.505,1,2026-05-03T03:59:59.999Z
+"UFC Fight Night: Beneil Dariush vs. Quillan Salkilld (Lightweight, Main Card)",Beneil Dariush,Quillan Salkilld,0.235,0,2026-05-03T03:59:59.999Z
+"UFC Fight Night: Junior Tafa vs. Kevin Christian (Light Heavyweight, Prelims)",Junior Tafa,Kevin Christian,0.675,1,2026-05-03T03:59:59.999Z
+"UFC Fight Night: Robert Bryczek vs. Cam Rowston (Middleweight, Main Card)",Robert Bryczek,Cam Rowston,0.375,0,2026-05-03T03:59:59.999Z
+"UFC Fight Night: Gerald Meerschaert vs. Jacob Malkoun (Middleweight, Main Card)",Gerald Meerschaert,Jacob Malkoun,0.095,0,2026-05-03T03:59:59.999Z
+"UFC Fight Night: Tim Elliott vs. Steve Erceg (Flyweight, Main Card)",Tim Elliott,Steve Erceg,0.385,0,2026-05-03T03:59:59.999Z
+"UFC Fight Night: Dom Mar Fan vs. Kody Steele (Lightweight, Prelims)",Dom Mar Fan,Kody Steele,0.425,0,2026-05-03T03:59:59.999Z
+"UFC Fight Night: Shamil Gaziev vs. Brando Pericic (Heavyweight, Prelims)",Shamil Gaziev,Brando Pericic,0.505,0,2026-05-03T03:59:59.999Z
+"UFC Fight Night: Themba Gorimbo vs. Jonathan Micallef (Welterweight, Prelims)",Themba Gorimbo,Jonathan Micallef,0.325,0,2026-05-03T03:59:59.999Z
+"UFC Fight Night: Vince Morales vs. Colby Thicknesse (Bantamweight, Prelims)",Vince Morales,Colby Thicknesse,0.435,0,2026-05-03T03:59:59.999Z
+"UFC Fight Night: Wes Schultz vs. Ben Johnston (Middleweight, Prelims)",Wes Schultz,Ben Johnston,0.415,1,2026-05-03T03:59:59.999Z
+"UFC 328: Sean Strickland vs. Khamzat Chimaev (Middleweight, Main Card)",Sean Strickland,Khamzat Chimaev,0.185,1,2026-05-10T03:59:59.999Z
+"UFC 328: Tatsuro Taira vs. Joshua Van (Flyweight, Main Card)",Tatsuro Taira,Joshua Van,0.595,0,2026-05-10T03:59:59.999Z
+"UFC 328: Alexander Volkov vs. Waldo Cortes-Acosta (Heavyweight, Main Card)",Alexander Volkov,Waldo Cortes-Acosta,0.565,1,2026-05-10T03:59:59.999Z
+"UFC 328: Joaquin Buckley vs. Sean Brady (Welterweight, Main Card)",Joaquin Buckley,Sean Brady,0.385,0,2026-05-10T03:59:59.999Z
+"UFC 328: Jeremy Stephens vs. King Green (Lightweight, Main Card)",Jeremy Stephens,King Green,0.225,0,2026-05-10T03:59:59.999Z
+"UFC 328: Ozzy Diaz vs. Ateba Gautier (Middleweight, Prelims)",Ozzy Diaz,Ateba Gautier,0.115,0,2026-05-10T03:59:59.999Z
+"UFC 328: Yaroslav Amosov vs. Joel Álvarez (Welterweight, Prelims)",Yaroslav Amosov,Joel Álvarez,0.625,1,2026-05-10T03:59:59.999Z
+"UFC 328: Roman Kopylov vs. Marco Tulio (Middleweight, Early Prelims)",Roman Kopylov,Marco Tulio,0.365,1,2026-05-10T03:59:59.999Z
+"UFC 328: Djorden Santos vs. Baisangur Susurkaev (Middleweight, Early Prelims)",Djorden Santos,Baisangur Susurkaev,0.135,0,2026-05-10T03:59:59.999Z
+"UFC 328: Clayton Carpenter vs. Jose Ochoa (Flyweight, Early Prelims)",Clayton Carpenter,Jose Ochoa,0.375,0,2026-05-10T03:59:59.999Z
+"UFC 328: Grant Dawson vs. Mateusz Rebecki (Lightweight, Prelims)",Grant Dawson,Mateusz Rebecki,0.565,1,2026-05-10T03:59:59.999Z
+"UFC Fight Night: Jafel Filho vs. Cody Durden (Flyweight, Prelims)",Jafel Filho,Cody Durden,0.835,0,2026-04-26T03:59:59.999Z
+"UFC Fight Night: Lucas Brennan vs. Francis Marshall (Lightweight, Prelims)",Lucas Brennan,Francis Marshall,0.195,0,2026-04-26T03:59:59.999Z
+"UFC Fight Night: Max Griffin vs. Victor Valenzuela (Welterweight, Prelims)",Max Griffin,Victor Valenzuela,0.445,0,2026-04-26T03:59:59.999Z
+"UFC 328: Pat Sabatini vs. William Gomis (Featherweight, Early Prelims)",Pat Sabatini,William Gomis,0.595,1,2026-05-10T03:59:59.999Z
+"UFC Fight Night: Tai Tuivasa vs. Louie Sutherland (Heavyweight, Main Card)",Tai Tuivasa,Louie Sutherland,0.675,0,2026-05-03T03:59:59.999Z
+"UFC Fight Night: Arnold Allen vs. Melquizael Costa (Featherweight, Main Card)",Arnold Allen,Melquizael Costa,0.535,1,2026-05-17T03:59:59.999Z
+"UFC Fight Night: Dooho Choi vs. Daniel Santos (Featherweight, Main Card)",Dooho Choi,Daniel Santos,0.375,1,2026-05-17T03:59:59.999Z
+"UFC Fight Night: Malcolm Wellmaker vs. Juan Diaz (Bantamweight, Main Card)",Malcolm Wellmaker,Juan Diaz,0.685,0,2026-05-17T03:59:59.999Z
+"UFC Fight Night: Bernardo Sopaj vs. Timmy Cuamba (Bantamweight, Main Card)",Bernardo Sopaj,Timmy Cuamba,0.545,1,2026-05-17T03:59:59.999Z
+"UFC Fight Night: Tuco Tokkos vs. Ivan Erslan (Light Heavyweight, Prelims)",Tuco Tokkos,Ivan Erslan,0.385,0,2026-05-17T03:59:59.999Z
+"UFC Fight Night: Ketlen Vieira vs. Jacqueline Cavalcanti (Women's Bantamweight, Prelims)",Ketlen Vieira,Jacqueline Cavalcanti,0.425,1,2026-05-17T03:59:59.999Z
+"UFC Fight Night: Cody Brundage vs. Andre Petroski (Middleweight, Prelims)",Cody Brundage,Andre Petroski,0.395,1,2026-05-17T03:59:59.999Z
+"UFC Fight Night: Alice Ardelean vs. Polyana Viana (Women's Strawweight, Prelims)",Alice Ardelean,Polyana Viana,0.645,1,2026-05-17T03:59:59.999Z
+"UFC Fight Night: Daniel Barez vs. Luis Gurule (Flyweight, Prelims)",Daniel Barez,Luis Gurule,0.395,0,2026-05-17T03:59:59.999Z
+"UFC Fight Night: Nicolle Caliari vs. Shauna Bannon (Women's Strawweight, Prelims)",Nicolle Caliari,Shauna Bannon,0.715,1,2026-05-17T03:59:59.999Z
+ MVP Fight Night: Francis Ngannou vs. Philipe Lins,Ngannou,Lins,0.89,1,2026-05-17T00:00:00Z
+ MVP Fight Night: Nate Diaz vs. Mike Perry,Diaz,Perry,0.39,0,2026-05-17T00:00:00Z
+"UFC Fight Night: Marwan Rahiki vs. Ollie Schmid (Featherweight, Main Card)",Marwan Rahiki,Ollie Schmid,0.835,1,2026-05-03T03:59:59.999Z
+"UFC 328: Jim Miller vs. Jared Gordon (Lightweight, Prelims)",Jim Miller,Jared Gordon,0.295,1,2026-05-10T03:59:59.999Z
+"UFC Fight Night: Song Yadong vs. Deiveson Figueiredo (Bantamweight, Main Card)",Song Yadong,Deiveson Figueiredo,0.825,1,2026-05-31T03:59:59.999Z
+"UFC Fight Night: Alonzo Menifield vs. Zhang Mingyang (Light Heavyweight, Main Card)",Alonzo Menifield,Zhang Mingyang,0.315,1,2026-05-31T03:59:59.999Z
+"UFC Fight Night: Sergei Pavlovich vs. Tallison Teixeira (Heavyweight, Main Card)",Sergei Pavlovich,Tallison Teixeira,0.825,1,2026-05-31T03:59:59.999Z
+"UFC Fight Night: Kai Asakura vs. Cameron Smotherman (Bantamweight, Main Card)",Kai Asakura,Cameron Smotherman,0.715,1,2026-05-31T03:59:59.999Z
+"UFC Fight Night: Luis Felipe Dias vs. Yi Sak Lee (Middleweight, Prelims)",Luis Felipe Dias,Yi Sak Lee,0.615,1,2026-05-31T03:59:59.999Z
+"UFC Fight Night: Aoriqileng vs. Cody Haddon (Bantamweight, Prelims)",Aoriqileng,Cody Haddon,0.245,0,2026-05-31T03:59:59.999Z
+"UFC Fight Night: Angela Hill vs. Jingnan Xiong (Women's Strawweight, Prelims)",Angela Hill,Jingnan Xiong,0.365,1,2026-05-31T03:59:59.999Z
+"UFC Fight Night: Loma Lookboonmee vs. Jaqueline Amorim (Women's Strawweight, Prelims)",Loma Lookboonmee,Jaqueline Amorim,0.435,0,2026-05-31T03:59:59.999Z
+"UFC Fight Night: Ding Meng vs. Jose Henrique (Welterweight, Prelims)",Ding Meng,Jose Henrique,0.515,0,2026-05-31T03:59:59.999Z
+"UFC Fight Night: Khaos Williams vs. Nikolay Veretennikov (Welterweight, Prelims)",Khaos Williams,Nikolay Veretennikov,0.515,1,2026-05-17T03:59:59.999Z
+"UFC Fight Night: Modestas Bukauskas vs. Christian Edwards (Light Heavyweight, Main Card)",Modestas Bukauskas,Christian Edwards,0.74,1,2026-05-17T03:59:59.999Z
+"UFC Fight Night: Tommy Gantt vs. Artur Minev (Lightweight, Prelims)",Tommy Gantt,Artur Minev,0.625,1,2026-05-17T03:59:59.999Z
+"UFC Fight Night: Belal Muhammad vs. Gabriel Bonfim (Welterweight, Main Card)",Belal Muhammad,Gabriel Bonfim,0.495,0,2026-06-07T03:59:59.999Z
+"UFC Fight Night: Brendan Allen vs. Edmen Shahbazyan (Middleweight, Main Card)",Brendan Allen,Edmen Shahbazyan,0.625,1,2026-06-07T03:59:59.999Z
+"UFC Fight Night: Bruno Silva vs. Édgar Cháirez (Flyweight, Prelims)",Bruno Silva,Édgar Cháirez,0.525,0,2026-06-07T03:59:59.999Z
+"UFC Fight Night: Yuneisy Duben vs. Jeisla Chaves (Women's Flyweight, Prelims)",Yuneisy Duben,Jeisla Chaves,0.285,0,2026-06-07T03:59:59.999Z
+"UFC Fight Night: Farés Ziam vs. Tom Nolan (Lightweight, Prelims)",Farés Ziam,Tom Nolan,0.725,0,2026-06-07T03:59:59.999Z
+"UFC Fight Night: Ariane Carnelossi vs. Ketlen Souza (Women's Strawweight, Prelims)",Ariane Carnelossi,Ketlen Souza,0.255,0,2026-06-07T03:59:59.999Z
+"UFC Fight Night: Joanderson Brito vs. Jordan Leavitt (Featherweight, Prelims)",Joanderson Brito,Jordan Leavitt,0.605,1,2026-06-07T03:59:59.999Z
+"UFC Fight Night: Priscila Cachoeira vs. Chelsea Chandler (Women's Bantamweight, Prelims)",Priscila Cachoeira,Chelsea Chandler,0.475,0,2026-06-07T03:59:59.999Z
+"UFC 329: Max Holloway vs. Conor McGregor (Welterweight, Main Card)",Max Holloway,Conor McGregor,0.695,1,2026-07-12T03:59:59.999Z
+"UFC Fight Night: Jake Matthews vs. Carlston Harris (Welterweight, Main Card)",Jake Matthews,Carlston Harris,0.785,1,2026-05-31T03:59:59.999Z
+"UFC Freedom 250: Justin Gaethje vs. Ilia Topuria (Lightweight, Main Card)",Justin Gaethje,Ilia Topuria,0.195,1,2026-06-15T03:59:59.999Z
+"UFC Freedom 250: Ciryl Gane vs. Alex Pereira (Heavyweight, Main Card)",Ciryl Gane,Alex Pereira,0.505,1,2026-06-15T03:59:59.999Z
+"UFC Freedom 250: Aiemann Zahabi vs. Sean O'Malley (Bantamweight, Main Card)",Aiemann Zahabi,Sean O'Malley,0.215,0,2026-06-15T03:59:59.999Z
+"UFC Freedom 250: Derrick Lewis vs. Josh Hokit (Heavyweight, Main Card)",Derrick Lewis,Josh Hokit,0.215,0,2026-06-15T03:59:59.999Z
+"UFC Freedom 250: Michael Chandler vs. Mauricio Ruffy (Lightweight, Main Card)",Michael Chandler,Mauricio Ruffy,0.175,0,2026-06-15T03:59:59.999Z
+"UFC Freedom 250: Kyle Daukaus vs. Bo Nickal (Middleweight, Main Card)",Kyle Daukaus,Bo Nickal,0.265,0,2026-06-15T03:59:59.999Z
+"UFC Freedom 250: Steve Garcia vs. Diego Lopes (Featherweight, Main Card)",Steve Garcia,Diego Lopes,0.43,0,2026-06-15T03:59:59.999Z
+"UFC Fight Night: Rei Tsuruya vs. Luis Gurule (Bantamweight, Prelims)",Rei Tsuruya,Luis Gurule,0.755,1,2026-05-31T03:59:59.999Z
+"UFC Fight Night: Rodrigo Vera vs. Zhu Kangjie (Featherweight, Prelims)",Rodrigo Vera,Zhu Kangjie,0.495,1,2026-05-31T03:59:59.999Z
+"UFC Fight Night: Kyoji Horiguchi vs. Manel Kape (Flyweight, Main Card)",Kyoji Horiguchi,Manel Kape,0.425,0,2026-06-21T03:59:59.999Z
+"UFC Fight Night: Ion Cutelaba vs. Navajo Stirling (Light Heavyweight, Main Card)",Ion Cutelaba,Navajo Stirling,0.27,0,2026-06-21T03:59:59.999Z
+"UFC Fight Night: Christian Rodriguez vs. Hyder Amil (Featherweight, Main Card)",Christian Rodriguez,Hyder Amil,0.645,1,2026-06-21T03:59:59.999Z
+"UFC Fight Night: Kevin Borjas vs. Andre Lima (Flyweight, Main Card)",Kevin Borjas,Andre Lima,0.165,1,2026-06-21T03:59:59.999Z
+"UFC Fight Night: Melsik Baghdasaryan vs. Murtazali Magomedov (Featherweight, Main Card)",Melsik Baghdasaryan,Murtazali Magomedov,0.265,0,2026-06-21T03:59:59.999Z
+"UFC Fight Night: Melissa Mullins vs. Bia Mesquita (Women's Bantamweight, Prelims)",Melissa Mullins,Bia Mesquita,0.165,0,2026-06-21T03:59:59.999Z
+"UFC Fight Night: Allan Nascimento vs. Mitch Raposo (Flyweight, Prelims)",Allan Nascimento,Mitch Raposo,0.605,0,2026-06-21T03:59:59.999Z
+"UFC Fight Night: Gaston Bolaños vs. Michael Aswell (Featherweight, Prelims)",Gaston Bolaños,Michael Aswell,0.225,1,2026-06-21T03:59:59.999Z
+"UFC Fight Night: Karol Rosa vs. Luana Santos (Women's Bantamweight, Prelims)",Karol Rosa,Luana Santos,0.495,0,2026-06-21T03:59:59.999Z
+"UFC Fight Night: Bryce Mitchell vs. Santiago Luna (Bantamweight, Main Card)",Bryce Mitchell,Santiago Luna,0.525,1,2026-06-07T03:59:59.999Z
+"UFC Fight Night: Junior Tafa vs. Iwo Baraniewski (Light Heavyweight, Main Card)",Junior Tafa,Iwo Baraniewski,0.225,0,2026-06-07T03:59:59.999Z
+"UFC Fight Night: Matt Schnell vs. Alessandro Costa (Catchweight, Prelims)",Matt Schnell,Alessandro Costa,0.215,0,2026-06-07T03:59:59.999Z
+"UFC Fight Night: Marcus McGhee vs. John Yannis (Bantamweight, Prelims)",Marcus McGhee,John Yannis,0.765,1,2026-06-07T03:59:59.999Z
+"UFC Fight Night: Rafael Fiziev vs. Manuel Torres (Lightweight, Main Card)",Rafael Fiziev,Manuel Torres,0.485,1,2026-06-28T03:59:59.999Z
+"UFC Fight Night: Michel Pereira vs. Shara Magomedov (Middleweight, Main Card)",Michel Pereira,Shara Magomedov,0.235,0,2026-06-28T03:59:59.999Z
+"UFC Fight Night: Nazim Sadykhov vs. Matheus Camilo (Lightweight, Main Card)",Nazim Sadykhov,Matheus Camilo,0.635,0,2026-06-28T03:59:59.999Z
+"UFC Fight Night: Asu Almabayev vs. Charles Johnson (Flyweight, Main Card)",Asu Almabayev,Charles Johnson,0.715,1,2026-06-28T03:59:59.999Z
+"UFC Fight Night: Ikram Aliskerov vs. Brunno Ferreira (Middleweight, Main Card)",Ikram Aliskerov,Brunno Ferreira,0.715,1,2026-06-28T03:59:59.999Z
+"UFC Fight Night: Abus Magomedov vs. Michal Oleksiejczuk (Middleweight, Main Card)",Abus Magomedov,Michal Oleksiejczuk,0.475,1,2026-06-28T03:59:59.999Z
+"UFC Fight Night: Eric Nolan vs. Farman Hasanov (Welterweight, Prelims)",Eric Nolan,Farman Hasanov,0.395,0,2026-06-28T03:59:59.999Z
+"UFC Fight Night: Julius Walker vs. Abdul-Rakhman Yakhyaev (Light Heavyweight, Prelims)",Julius Walker,Abdul-Rakhman Yakhyaev,0.165,0,2026-06-28T03:59:59.999Z
+"UFC Fight Night: Nursulton Ruziboev vs. Andrey Pulyaev (Middleweight, Prelims)",Nursulton Ruziboev,Andrey Pulyaev,0.645,1,2026-06-28T03:59:59.999Z
+"UFC Fight Night: Javier Reyes vs. Kaan Ofli (Featherweight, Prelims)",Javier Reyes,Kaan Ofli,0.675,0,2026-06-28T03:59:59.999Z
+"UFC Fight Night: Jean Matsumoto vs. Bekzat Almakhan (Bantamweight, Prelims)",Jean Matsumoto,Bekzat Almakhan,0.605,1,2026-06-28T03:59:59.999Z
+"UFC Fight Night: Leon Shahbazyan vs. Levan Chokheli (Welterweight, Prelims)",Leon Shahbazyan,Levan Chokheli,0.225,0,2026-06-21T03:59:59.999Z
+"UFC Fight Night: Otari Tanzilovi vs. Shane Collins (Featherweight, Prelims)",Otari Tanzilovi,Shane Collins,0.345,0,2026-06-21T03:59:59.999Z
+"UFC Fight Night: Andre Fili vs. Vinicius Oliveira (Featherweight, Main Card)",Andre Fili,Vinicius Oliveira,0.27,0,2026-06-21T03:59:59.999Z
+"UFC Fight Night: Theodor Berggren vs. Daniil Donchenko (Welterweight, Prelims)",Theodor Berggren,Daniil Donchenko,0.185,0,2026-06-28T03:59:59.999Z
+"UFC Fight Night: Tahir Abdullayev vs. Jefferson Nascimento (Welterweight, Prelims)",Tahir Abdullayev,Jefferson Nascimento,0.445,1,2026-06-28T03:59:59.999Z
+"UFC 329: Paddy Pimblett vs. Benoît Saint Denis (Lightweight, Main Card)",Paddy Pimblett,Benoît Saint Denis,0.425,1,2026-07-12T03:59:59.999Z
+"UFC 329: Cory Sandhagen vs. Mario Bautista (Bantamweight, Main Card)",Cory Sandhagen,Mario Bautista,0.565,0,2026-07-12T03:59:59.999Z
+"UFC 329: Brandon Royval vs. Lone'er Kavanagh (Flyweight, Main Card)",Brandon Royval,Lone'er Kavanagh,0.335,1,2026-07-12T03:59:59.999Z
+"UFC 329: King Green vs. Terrance McKinney (Lightweight, Main Card)",King Green,Terrance McKinney,0.505,1,2026-07-12T03:59:59.999Z
+"UFC 329: Robert Whittaker vs. Nikita Krylov (Light Heavyweight, Prelims)",Robert Whittaker,Nikita Krylov,0.525,1,2026-07-12T03:59:59.999Z
+"UFC 329: Gable Steveson vs. Elisha Ellison (Heavyweight, Prelims)",Gable Steveson,Elisha Ellison,0.908,1,2026-07-12T03:59:59.999Z
+"UFC 329: Cody Garbrandt vs. Adrian Yanez (Bantamweight, Prelims)",Cody Garbrandt,Adrian Yanez,0.225,0,2026-07-12T03:59:59.999Z
+"UFC 329: Kai Kamaka III vs. Luke Riley (Featherweight, Prelims)",Kai Kamaka III,Luke Riley,0.335,0,2026-07-12T03:59:59.999Z
+"UFC 329: Wang Cong vs. Tracy Cortez (Women's Flyweight, Early Prelims)",Wang Cong,Tracy Cortez,0.525,1,2026-07-12T03:59:59.999Z
+"UFC 329: Cesar Almeida vs. Damian Pinas (Middleweight, Early Prelims)",Cesar Almeida,Damian Pinas,0.305,0,2026-07-12T03:59:59.999Z
+"UFC 329: Zachary Reese vs. Ryan Gandra (Middleweight, Early Prelims)",Zachary Reese,Ryan Gandra,0.445,0,2026-07-12T03:59:59.999Z
+"UFC 329: Cody Durden vs. Alessandro Costa (Flyweight, Early Prelims)",Cody Durden,Alessandro Costa,0.325,0,2026-07-12T03:59:59.999Z
+"UFC Fight Night: Kamaru Usman vs. Dricus Du Plessis (Middleweight, Main Card)",Kamaru Usman,Dricus Du Plessis,0.345,0,2026-07-19T03:59:59.999Z
+"UFC Fight Night: Jared Cannonier vs. Christian Leroy Duncan (Middleweight, Main Card)",Jared Cannonier,Christian Leroy Duncan,0.225,0,2026-07-19T03:59:59.999Z
+"UFC Fight Night: Chase Hooper vs. Mitch Ramirez (Lightweight, Main Card)",Chase Hooper,Mitch Ramirez,0.775,1,2026-07-19T03:59:59.999Z
+"UFC Fight Night: Tabatha Ricci vs. Fatima Kline (Women's Strawweight, Main Card)",Tabatha Ricci,Fatima Kline,0.205,0,2026-07-19T03:59:59.999Z
+"UFC Fight Night: Alberto Montes vs. Tommy McMillen (Featherweight, Main Card)",Alberto Montes,Tommy McMillen,0.395,0,2026-07-19T03:59:59.999Z
+"UFC Fight Night: Austin Bashi vs. Jose Miguel Delgado (Featherweight, Prelims)",Austin Bashi,Jose Miguel Delgado,0.525,0,2026-07-19T03:59:59.999Z
+"UFC Fight Night: Felipe Franco vs. Levi Rodrigues Jr. (Light Heavyweight, Prelims)",Felipe Franco,Levi Rodrigues Jr.,0.415,1,2026-07-19T03:59:59.999Z
+"UFC Fight Night: Alden Coria vs. Stewart Nicoll (Flyweight, Prelims)",Alden Coria,Stewart Nicoll,0.875,1,2026-07-19T03:59:59.999Z
+"UFC 329: Farid Basharat vs. John Garza (Bantamweight, Early Prelims)",Farid Basharat,John Garza,0.84,1,2026-07-12T03:59:59.999Z
+"UFC Fight Night: Jean-Paul Lebosnoyani vs. Seokhyeon Ko (Welterweight, Prelims)",Jean-Paul Lebosnoyani,Seokhyeon Ko,0.385,1,2026-07-19T03:59:59.999Z
+"UFC Fight Night: Alvin Hines vs. RJ Harris (Heavyweight, Prelims)",Alvin Hines,RJ Harris,0.525,0,2026-07-19T03:59:59.999Z
+"UFC Fight Night: Dione Barbosa vs. Anna Melisano (Women's Flyweight, Prelims)",Dione Barbosa,Anna Melisano,0.835,1,2026-07-19T03:59:59.999Z
+"UFC Fight Night: Ramazan Temirov vs. Steve Erceg (Flyweight, Main Card)",Ramazan Temirov,Steve Erceg,0.505,1,2026-07-26T03:59:59.999Z
+"UFC Fight Night: Magomed Zaynukov vs. Damian Rzepecki (Lightweight, Main Card)",Magomed Zaynukov,Damian Rzepecki,0.725,1,2026-07-26T03:59:59.999Z
+"UFC Fight Night: Rizvan Kuniev vs. Tyrell Fortune (Heavyweight, Main Card)",Rizvan Kuniev,Tyrell Fortune,0.745,1,2026-07-26T03:59:59.999Z
+"UFC Fight Night: Thomas Petersen vs. Valter Walker (Heavyweight, Prelims)",Thomas Petersen,Valter Walker,0.375,0,2026-07-26T03:59:59.999Z
+"UFC Fight Night: Ismael Bonfim vs. Axel Sola (Lightweight, Prelims)",Ismael Bonfim,Axel Sola,0.365,0,2026-07-26T03:59:59.999Z
+"UFC Fight Night: Brendson Ribeiro vs. Magomed Tuchalov (Light Heavyweight, Prelims)",Brendson Ribeiro,Magomed Tuchalov,0.115,0,2026-07-26T03:59:59.999Z
+"UFC Fight Night: Mike Davis vs. Nurullo Aliev (Lightweight, Prelims)",Mike Davis,Nurullo Aliev,0.315,0,2026-07-26T03:59:59.999Z
+"UFC Fight Night: Abubakar Vagaev vs. Saygid Izagakhmaev (Welterweight, Main Card)",Abubakar Vagaev,Saygid Izagakhmaev,0.685,1,2026-07-26T03:59:59.999Z
+"UFC Fight Night: Magomed Ankalaev vs. Bogdan Guskov (Light Heavyweight, Main Card)",Magomed Ankalaev,Bogdan Guskov,0.805,1,2026-07-26T03:59:59.999Z
+"UFC Fight Night: Santiago Ponzinibbio vs. Sam Patterson (Welterweight, Prelims)",Santiago Ponzinibbio,Sam Patterson,0.195,0,2026-07-26T03:59:59.999Z
+"UFC Fight Night: Damien Anderson vs. Ezra Elliott (Featherweight, Prelims)",Damien Anderson,Ezra Elliott,0.555,0,2026-07-19T03:59:59.999Z
+"UFC Fight Night: Daniel Rodriguez vs. Uroš Medic (Welterweight, Main Card)",Daniel Rodriguez,Uroš Medic,0.225,0,2026-08-02T03:59:59.999Z
+"UFC Fight Night: Marcin Tybura vs. Aleksandar Rakic (Heavyweight, Main Card)",Marcin Tybura,Aleksandar Rakic,0.225,0,2026-08-02T03:59:59.999Z
+"UFC Fight Night: Duško Todorovic vs. Robert Valentin (Middleweight, Main Card)",Duško Todorovic,Robert Valentin,0.395,0,2026-08-02T03:59:59.999Z
+"UFC Fight Night: Gilbert Urbina vs. Vlasto Cepo (Middleweight, Prelims)",Gilbert Urbina,Vlasto Cepo,0.255,1,2026-08-02T03:59:59.999Z
+"UFC Fight Night: Ludovit Klein vs. Tofiq Musayev (Lightweight, Prelims)",Ludovit Klein,Tofiq Musayev,0.685,0,2026-08-02T03:59:59.999Z
+"UFC Fight Night: Oban Elliott vs. Michael Oliveira (Welterweight, Prelims)",Oban Elliott,Michael Oliveira,0.235,0,2026-08-02T03:59:59.999Z
+"UFC Fight Night: Dennis Buzukja vs. Bogdan Grad (Featherweight, Prelims)",Dennis Buzukja,Bogdan Grad,0.375,0,2026-08-02T03:59:59.999Z
+"UFC Fight Night: Hailey Cowan vs. Nina Miloševic (Women's Bantamweight, Prelims)",Hailey Cowan,Nina Miloševic,0.185,0,2026-08-02T03:59:59.999Z
+"UFC Fight Night: Kyle Prepolec vs. Mateusz Rebecki (Lightweight, Prelims)",Kyle Prepolec,Mateusz Rebecki,0.145,0,2026-08-02T03:59:59.999Z
+"UFC Fight Night: Jan Blachowicz vs. Navajo Stirling (Light Heavyweight, Main Card)",Jan Blachowicz,Navajo Stirling,0.265,0,2026-08-02T03:59:59.999Z
+"UFC Fight Night: Dustin Jacoby vs. Muhammad Said (Light Heavyweight, Prelims)",Dustin Jacoby,Muhammad Said,0.625,0,2026-07-26T03:59:59.999Z
+"UFC Fight Night: Cody Gibson vs. Abdul Hussein (Bantamweight, Prelims)",Cody Gibson,Abdul Hussein,0.165,0,2026-07-26T03:59:59.999Z
+"UFC Fight Night: Mateusz Gamrot vs. Quillan Salkilld (Lightweight, Main Card)",Mateusz Gamrot,Quillan Salkilld,0.445,0,2026-08-09T03:59:59.999Z
+"UFC Fight Night: Bruno Lopes vs. Diyar Nurgozhay (Light Heavyweight, Main Card)",Bruno Lopes,Diyar Nurgozhay,0.405,0,2026-08-09T03:59:59.999Z
+"UFC Fight Night: Diego Ferreira vs. Billy Quarantillo (Lightweight, Main Card)",Diego Ferreira,Billy Quarantillo,0.625,1,2026-08-09T03:59:59.999Z
+"UFC Fight Night: Steven Asplund vs. Guilherme Pat (Heavyweight, Main Card)",Steven Asplund,Guilherme Pat,0.735,1,2026-08-09T03:59:59.999Z
+"UFC Fight Night: Amanda Lemos vs. Alexia Thainara (Women's Strawweight, Prelims)",Amanda Lemos,Alexia Thainara,0.305,0,2026-08-09T03:59:59.999Z
+"UFC Fight Night: Milos Janicic vs. Noah Gugnon (Lightweight, Main Card)",Milos Janicic,Noah Gugnon,0.475,0,2026-08-02T03:59:59.999Z
+"UFC Fight Night: Borislav Nikolic vs. Mark Vologdin (Bantamweight, Prelims)",Borislav Nikolic,Mark Vologdin,0.645,1,2026-08-02T03:59:59.999Z
+"UFC Fight Night: Alexander Poppeck vs. Jovan Leka (Heavyweight, Prelims)",Alexander Poppeck,Jovan Leka,0.275,0,2026-08-02T03:59:59.999Z
+"UFC Fight Night: Stephanie Luciano vs. Marina Spasic (Women's Strawweight, Prelims)",Stephanie Luciano,Marina Spasic,0.745,1,2026-08-02T03:59:59.999Z
+"UFC Fight Night: Juliana Miller vs. Ravena Oliveira (Women's Flyweight, Prelims)",Juliana Miller,Ravena Oliveira,0.735,1,2026-08-09T03:59:59.999Z
+"UFC Fight Night: Billy Ray Goff vs. Ty Miller (Welterweight, Prelims)",Billy Ray Goff,Ty Miller,0.215,0,2026-08-09T03:59:59.999Z
+"UFC Fight Night: Darren Elkins vs. Yadier del Valle (Featherweight, Prelims)",Darren Elkins,Yadier del Valle,0.125,0,2026-08-09T03:59:59.999Z
+"UFC 330: Islam Makhachev vs. Ian Machado Garry (Welterweight, Main Card)",Islam Makhachev,Ian Machado Garry,0.755,1,2026-08-16T03:59:59.999Z
+"UFC 330: Mackenzie Dern vs. Gillian Robertson (Women's Strawweight, Main Card)",Mackenzie Dern,Gillian Robertson,0.645,1,2026-08-16T03:59:59.999Z
+"UFC 330: Jalin Turner vs. Kauê Fernandes (Lightweight, Prelims)",Jalin Turner,Kauê Fernandes,0.525,1,2026-08-16T03:59:59.999Z
+"UFC 330: Dustin Stoltzfus vs. Mansur Abdul-Malik (Middleweight, Prelims)",Dustin Stoltzfus,Mansur Abdul-Malik,0.145,1,2026-08-16T03:59:59.999Z
+"UFC 330: Edson Barboza vs. Esteban Ribovics (Lightweight, Prelims)",Edson Barboza,Esteban Ribovics,0.165,0,2026-08-16T03:59:59.999Z
+"UFC 330: Jeremiah Wells vs. Myktybek Orolbai (Welterweight, Prelims)",Jeremiah Wells,Myktybek Orolbai,0.105,1,2026-08-16T03:59:59.999Z
+"UFC 330: Vicente Luque vs. Tresean Gore (Middleweight, Early Prelims)",Vicente Luque,Tresean Gore,0.505,0,2026-08-16T03:59:59.999Z
+"UFC 330: Neil Magny vs. Ramiz Brahimaj (Welterweight, Prelims)",Neil Magny,Ramiz Brahimaj,0.425,1,2026-08-16T03:59:59.999Z
+"UFC 330: Eric McConico vs. Donte Johnson (Middleweight, Early Prelims)",Eric McConico,Donte Johnson,0.245,0,2026-08-16T03:59:59.999Z
+"UFC Fight Night: Louie Sutherland vs. José Montanha (Heavyweight, Prelims)",Louie Sutherland,José Montanha,0.645,0,2026-08-09T03:59:59.999Z
+"UFC Fight Night: Manoel Sousa vs. Richie Miranda (Lightweight, Prelims)",Manoel Sousa,Richie Miranda,0.735,1,2026-08-09T03:59:59.999Z
+"Dana White's Contender Series: Anthony Wint vs. Matt Adams (Heavyweight, Main Card)",Anthony Wint,Matt Adams,0.865,1,2026-08-12T03:59:59.999Z
+"Dana White's Contender Series: Abe Alsaghir vs. Fabrizio Escarrega (Lightweight, Main Card)",Abe Alsaghir,Fabrizio Escarrega,0.445,1,2026-08-12T03:59:59.999Z
+"Dana White's Contender Series: Bilal Hasan vs. Mridul Saikia (Flyweight, Main Card)",Bilal Hasan,Mridul Saikia,0.91,1,2026-08-12T03:59:59.999Z
+"Dana White's Contender Series: Tom Pagliarulo vs. Ananias Mulumba (Featherweight, Main Card)",Tom Pagliarulo,Ananias Mulumba,0.44,1,2026-08-12T03:59:59.999Z
+"Dana White's Contender Series: Joe Kropschot vs. Jon Kunneman (Middleweight, Main Card)",Joe Kropschot,Jon Kunneman,0.32,1,2026-08-12T03:59:59.999Z
+"Dana White's Contender Series: Kaik Brito vs. Namo Fazil (Welterweight, Main Card)",Kaik Brito,Namo Fazil,0.385,1,2026-08-19T03:59:59.999Z
+"Dana White's Contender Series: Trent Miller vs. Douglas Rodrigues (Middleweight, Main Card)",Trent Miller,Douglas Rodrigues,0.256,1,2026-08-19T03:59:59.999Z
+"Dana White's Contender Series: Logan Paxton vs. Cristian Perez (Lightweight, Main Card)",Logan Paxton,Cristian Perez,0.3115,0,2026-08-19T03:59:59.999Z
+"Dana White's Contender Series: Alik Lorenz vs. Mahamed Aly (Light Heavyweight, Main Card)",Alik Lorenz,Mahamed Aly,0.265,1,2026-08-19T03:59:59.999Z
+"Dana White's Contender Series: Roman Puga vs. Taner Trembley (Featherweight, Main Card)",Roman Puga,Taner Trembley,0.615,1,2026-08-19T03:59:59.999Z
+"UFC Fight Night: Gigi Canuto vs. Carol Foro (Women's Strawweight, Prelims)",Gigi Canuto,Carol Foro,0.315,0,2026-08-09T03:59:59.999Z
+"UFC 330: Chidi Njokuani vs. Joel Álvarez (Welterweight, Prelims)",Chidi Njokuani,Joel Álvarez,0.265,1,2026-08-16T03:59:59.999Z
+"UFC 330: Lucas Fernando vs. Rafael Tobias (Light Heavyweight, Early Prelims)",Lucas Fernando,Rafael Tobias,0.725,1,2026-08-16T03:59:59.999Z
+"UFC Fight Night: Anthony Hernandez vs. Gregory Rodrigues (Middleweight, Main Card)",Anthony Hernandez,Gregory Rodrigues,0.645,0,2026-08-23T03:59:59.999Z
+"UFC Fight Night: Serghei Spivac vs. Vitor Petrino (Heavyweight, Main Card)",Serghei Spivac,Vitor Petrino,0.415,0,2026-08-23T03:59:59.999Z
+"UFC Fight Night: Roman Dolidze vs. Reinier de Ridder (Light Heavyweight, Main Card)",Roman Dolidze,Reinier de Ridder,0.225,0,2026-08-23T03:59:59.999Z
+"UFC Fight Night: Carli Judice vs. Jeisla Chaves (Women's Strawweight, Main Card)",Carli Judice,Jeisla Chaves,0.835,1,2026-08-23T03:59:59.999Z
+"UFC Fight Night: Kennedy Nzechukwu vs. Shamil Gaziev (Heavyweight, Main Card)",Kennedy Nzechukwu,Shamil Gaziev,0.445,0,2026-08-23T03:59:59.999Z
+"UFC Fight Night: Wes Schultz vs. Jackson McVey (Middleweight, Prelims)",Wes Schultz,Jackson McVey,0.375,0,2026-08-23T03:59:59.999Z
+"UFC Fight Night: Elise Reed vs. Shanelle Dyer (Women's Strawweight, Prelims)",Elise Reed,Shanelle Dyer,0.135,0,2026-08-23T03:59:59.999Z
+"Dana White's Contender Series: Bella Mir vs. Alex Apodaca (Women's Bantamweight, Main Card)",Bella Mir,Alex Apodaca,0.945,0,2026-08-26T03:59:59.999Z
+"Dana White's Contender Series: Mario Piazzon vs. Guilherme Uriel (Heavyweight, Main Card)",Mario Piazzon,Guilherme Uriel,0.375,0,2026-08-26T03:59:59.999Z
+"Dana White's Contender Series: Gary Balletto vs. Sean Clancy Jr. (Welterweight, Main Card)",Gary Balletto,Sean Clancy Jr.,0.13,0,2026-08-26T03:59:59.999Z
+"Dana White's Contender Series: Ronald Humphrey vs. Alexis Miranda (Welterweight, Main Card)",Ronald Humphrey,Alexis Miranda,0.875,1,2026-08-26T03:59:59.999Z
+"Dana White's Contender Series: Carlos Petruzzella vs. Nick Galanti (Middleweight, Main Card)",Carlos Petruzzella,Nick Galanti,0.325,0,2026-08-26T03:59:59.999Z
+"UFC 330: Charles Johnson vs. Eduardo Chapolin (Catchweight, Prelims)",Charles Johnson,Eduardo Chapolin,0.505,1,2026-08-16T03:59:59.999Z
+"UFC Fight Night: Song Yadong vs. Umar Nurmagomedov (Bantamweight, Main Card)",Song Yadong,Umar Nurmagomedov,0.165,1,2026-08-30T03:59:59.999Z
+"UFC Fight Night: Yan Xiaonan vs. Denise Gomes (Women's Strawweight, Main Card)",Yan Xiaonan,Denise Gomes,0.575,0,2026-08-30T03:59:59.999Z
+"UFC Fight Night: Kai Asakura vs. Aoriqileng (Bantamweight, Main Card)",Kai Asakura,Aoriqileng,0.795,1,2026-08-30T03:59:59.999Z
+"UFC Fight Night: Alex Perez vs. Sumudaerji (Flyweight, Main Card)",Alex Perez,Sumudaerji,0.335,0,2026-08-30T03:59:59.999Z
+"UFC Fight Night: Namsrai Batbayar vs. Andre Lima (Flyweight, Main Card)",Namsrai Batbayar,Andre Lima,0.295,0,2026-08-30T03:59:59.999Z
+"UFC Fight Night: Sean Woodson vs. Jack Jenkins (Featherweight, Prelims)",Sean Woodson,Jack Jenkins,0.565,1,2026-08-30T03:59:59.999Z
+"UFC Fight Night: Rei Tsuruya vs. Kevin Borjas (Flyweight, Prelims)",Rei Tsuruya,Kevin Borjas,0.875,1,2026-08-30T03:59:59.999Z
+"UFC Fight Night: Jingnan Xiong vs. Julia Polastri (Women's Strawweight, Prelims)",Jingnan Xiong,Julia Polastri,0.335,0,2026-08-30T03:59:59.999Z
+"UFC Fight Night: Mason Jones vs. MarQuel Mederos (Lightweight, Main Card)",Mason Jones,MarQuel Mederos,0.765,0,2026-08-23T03:59:59.999Z
+"UFC Fight Night: Chris Padilla vs. Nasrat Haqparast (Lightweight, Prelims)",Chris Padilla,Nasrat Haqparast,0.515,1,2026-08-23T03:59:59.999Z
+"UFC Fight Night: Jamall Emmers vs. Lerryan Douglas (Featherweight, Prelims)",Jamall Emmers,Lerryan Douglas,0.225,1,2026-08-23T03:59:59.999Z
+"UFC Fight Night: Marcio Barbosa vs. Ryan Kuse (Featherweight, Prelims)",Marcio Barbosa,Ryan Kuse,0.875,1,2026-08-23T03:59:59.999Z
+"UFC Fight Night: Anthony Wint vs. Terrance Chatman (Heavyweight, Prelims)",Anthony Wint,Terrance Chatman,0.885,1,2026-08-23T03:59:59.999Z
+"UFC Fight Night: Gauge Young vs. Stan Dorsainvil (Lightweight, Prelims)",Gauge Young,Stan Dorsainvil,0.605,0,2026-08-23T03:59:59.999Z
+"Dana White's Contender Series: Brandon Holmes vs. Modestino Rodrigues (Middleweight, Main Card)",Brandon Holmes,Modestino Rodrigues,0.595,0,2026-09-02T03:59:59.999Z
+"Dana White's Contender Series: Liam McCracken vs. Silvestre Sanchez (Lightweight, Main Card)",Liam McCracken,Silvestre Sanchez,0.585,0,2026-09-02T03:59:59.999Z
+"Dana White's Contender Series: Gabriel Lourenço vs. Charlie Cleveland (Heavyweight, Main Card)",Gabriel Lourenço,Charlie Cleveland,0.365,1,2026-09-02T03:59:59.999Z
+"Dana White's Contender Series: Adam Livingston vs. Hunter Smith (Lightweight, Main Card)",Adam Livingston,Hunter Smith,0.615,1,2026-09-02T03:59:59.999Z
+"UFC Fight Night: Bilal Hasan vs. Nilson Rojas (Flyweight, Main Card)",Bilal Hasan,Nilson Rojas,0.855,1,2026-08-30T03:59:59.999Z
+"UFC Fight Night: Lawrence Lui vs. Hector Santiago (Bantamweight, Prelims)",Lawrence Lui,Hector Santiago,0.765,0,2026-08-30T03:59:59.999Z
+"UFC Fight Night: Ding Meng vs. Cameron Nelson (Welterweight, Prelims)",Ding Meng,Cameron Nelson,0.565,0,2026-08-30T03:59:59.999Z
+"UFC Fight Night: Dan Hooker vs. Salahdine Parnasse (Lightweight, Main Card)",Dan Hooker,Salahdine Parnasse,0.185,0,2026-09-06T03:59:59.999Z
+"UFC Fight Night: Farés Ziam vs. Axel Sola (Lightweight, Main Card)",Farés Ziam,Axel Sola,0.595,0,2026-09-06T03:59:59.999Z
+"UFC Fight Night: Michael Page vs. Nursulton Ruziboev (Middleweight, Main Card)",Michael Page,Nursulton Ruziboev,0.645,1,2026-09-06T03:59:59.999Z
+"UFC Fight Night: Morgan Charrière vs. Felipe Lima (Featherweight, Main Card)",Morgan Charrière,Felipe Lima,0.355,0,2026-09-06T03:59:59.999Z
+"UFC Fight Night: Muhammad Naimov vs. Losene Keita (Featherweight, Main Card)",Muhammad Naimov,Losene Keita,0.225,0,2026-09-06T03:59:59.999Z
+"UFC Fight Night: Ryan Spann vs. Mario Pinto (Heavyweight, Prelims)",Ryan Spann,Mario Pinto,0.235,0,2026-09-06T03:59:59.999Z
+"UFC Fight Night: Trevor Peek vs. Kurtis Campbell (Featherweight, Prelims)",Trevor Peek,Kurtis Campbell,0.215,0,2026-09-06T03:59:59.999Z
+"UFC Fight Night: Modestas Bukauskas vs. Oumar Sy (Light Heavyweight, Prelims)",Modestas Bukauskas,Oumar Sy,0.315,1,2026-09-06T03:59:59.999Z
+"UFC Fight Night: Nora Cornolle vs. Klaudia Sygula (Women's Bantamweight, Prelims)",Nora Cornolle,Klaudia Sygula,0.485,1,2026-09-06T03:59:59.999Z
+"UFC Fight Night: Luis Felipe Dias vs. Matthieu Letho Duclos (Middleweight, Prelims)",Luis Felipe Dias,Matthieu Letho Duclos,0.485,0,2026-09-06T03:59:59.999Z
+"UFC Fight Night: Sofia Montenegro vs. Delphine Benouaich (Women's Strawweight, Prelims)",Sofia Montenegro,Delphine Benouaich,0.435,0,2026-09-06T03:59:59.999Z
+"UFC Fight Night: Liu Ce vs. Levi Rodrigues Jr. (Light Heavyweight, Main Card)",Liu Ce,Levi Rodrigues Jr.,0.625,1,2026-08-30T03:59:59.999Z
+"Dana White's Contender Series: Quentin Pasley vs. Arlind Berisha (Light Heavyweight, Main Card)",Quentin Pasley,Arlind Berisha,0.405,1,2026-09-09T03:59:59.999Z
+"UFC Fight Night: Xiao Long vs. Francesco Nuzzi (Bantamweight, Prelims)",Xiao Long,Francesco Nuzzi,0.605,0,2026-08-30T03:59:59.999Z
+"UFC Fight Night: Punahele Soriano vs. Daniil Donchenko (Welterweight, Main Card)",Punahele Soriano,Daniil Donchenko,0.325,0,2026-09-06T03:59:59.999Z
+"UFC Fight Night: Michael Aljarouj vs. Fabia Sintes (Flyweight, Prelims)",Michael Aljarouj,Fabia Sintes,0.515,0,2026-09-06T03:59:59.999Z
+"Noche UFC: Jean Silva vs. Jose Miguel Delgado (Featherweight, Main Card)",Jean Silva,Jose Miguel Delgado,0.785,1,2026-09-13T03:59:59.999Z
+"Noche UFC: Brandon Moreno vs. Joseph Morales (Flyweight, Main Card)",Brandon Moreno,Joseph Morales,0.485,1,2026-09-13T03:59:59.999Z
+"Noche UFC: Tommy McMillen vs. Marwan Rahiki (Featherweight, Main Card)",Tommy McMillen,Marwan Rahiki,0.595,1,2026-09-13T03:59:59.999Z
+"Noche UFC: Alexa Grasso vs. Manon Fiorot (Women's Flyweight, Main Card)",Alexa Grasso,Manon Fiorot,0.295,1,2026-09-13T03:59:59.999Z
+"Noche UFC: Curtis Blaydes vs. Waldo Cortes Acosta (Heavyweight, Main Card)",Curtis Blaydes,Waldo Cortes Acosta,0.365,1,2026-09-13T03:59:59.999Z
+"Noche UFC: Dan Ige vs. David Martinez (Bantamweight, Main Card)",Dan Ige,David Martinez,0.205,0,2026-09-13T03:59:59.999Z
+"Noche UFC: Tim Elliott vs. Édgar Cháirez (Flyweight, Prelims)",Tim Elliott,Édgar Cháirez,0.345,1,2026-09-13T03:59:59.999Z
+"Noche UFC: Muslim Salikhov vs. Ignacio Bahamondes (Welterweight, Prelims)",Muslim Salikhov,Ignacio Bahamondes,0.185,0,2026-09-13T03:59:59.999Z
+"Noche UFC: Yousri Belgaroui vs. Djorden Santos (Middleweight, Prelims)",Yousri Belgaroui,Djorden Santos,0.875,1,2026-09-13T03:59:59.999Z
+"Noche UFC: Rafa Garcia vs. Rongzhu (Lightweight, Prelims)",Rafa Garcia,Rongzhu,0.395,0,2026-09-13T03:59:59.999Z
+"Noche UFC: JJ Aldrich vs. Regina Tarin (Women's Flyweight, Prelims)",JJ Aldrich,Regina Tarin,0.285,0,2026-09-13T03:59:59.999Z
+"Dana White's Contender Series: Patrick Rivera vs. Adam Darby (Welterweight, Main Card)",Patrick Rivera,Adam Darby,0.215,0,2026-09-02T03:59:59.999Z
+"Dana White's Contender Series: Isaac Moreno vs. Reginaldo Junior (Welterweight, Main Card)",Isaac Moreno,Reginaldo Junior,0.535,1,2026-09-09T03:59:59.999Z
+"Dana White's Contender Series: Christian Echols vs. Martin Kozák (Middleweight, Main Card)",Christian Echols,Martin Kozák,0.195,0,2026-09-09T03:59:59.999Z
+"Dana White's Contender Series: Kwon Won Il vs. Apollo Gomes (Bantamweight, Main Card)",Kwon Won Il,Apollo Gomes,0.545,0,2026-09-09T03:59:59.999Z
+"Dana White's Contender Series: Colton Loud vs. Christian Natividad (Flyweight, Main Card)",Colton Loud,Christian Natividad,0.28,0,2026-09-09T03:59:59.999Z
+"UFC Fight Night: Nathaniel Wood vs. Pavel Andrusca (Featherweight, Prelims)",Nathaniel Wood,Pavel Andrusca,0.725,0,2026-09-06T03:59:59.999Z
+"Noche UFC: Drakkar Klose vs. Tommy Gantt (Lightweight, Prelims)",Drakkar Klose,Tommy Gantt,0.215,0,2026-09-13T03:59:59.999Z
+"Noche UFC: Jessie Rosas vs. Sean King (Featherweight, Prelims)",Jessie Rosas,Sean King,0.355,0,2026-09-13T03:59:59.999Z
+"UFC 331: Alexandre Pantoja vs. Joshua Van (Flyweight, Main Card)",Alexandre Pantoja,Joshua Van,0.425,0,2026-09-20T03:59:59.999Z
+"UFC 331: Arman Tsarukyan vs. Mauricio Ruffy (Lightweight, Main Card)",Arman Tsarukyan,Mauricio Ruffy,0.735,1,2026-09-20T03:59:59.999Z
+"UFC 331: Patricio Pitbull vs. Dooho Choi (Featherweight, Main Card)",Patricio Pitbull,Dooho Choi,0.295,1,2026-09-20T03:59:59.999Z
+"UFC 331: Alonzo Menifield vs. Iwo Baraniewski (Light Heavyweight, Main Card)",Alonzo Menifield,Iwo Baraniewski,0.315,1,2026-09-20T03:59:59.999Z
+"UFC 331: Gable Steveson vs. Sean Sharaf (Heavyweight, Prelims)",Gable Steveson,Sean Sharaf,0.925,0,2026-09-20T03:59:59.999Z
+"UFC 331: Marlon Vera vs. Charles Jourdain (Bantamweight, Prelims)",Marlon Vera,Charles Jourdain,0.335,1,2026-09-20T03:59:59.999Z
+"UFC 331: Tai Tuivasa vs. Robelis Despaigne (Heavyweight, Prelims)",Tai Tuivasa,Robelis Despaigne,0.185,0,2026-09-20T03:59:59.999Z
+"UFC 331: Michael Aswell vs. JooSang Yoo (Featherweight, Prelims)",Michael Aswell,JooSang Yoo,0.345,1,2026-09-20T03:59:59.999Z
+"UFC 331: Ozzy Diaz vs. Ryan Gandra (Middleweight, Early Prelims)",Ozzy Diaz,Ryan Gandra,0.185,0,2026-09-20T03:59:59.999Z
+"UFC 331: Edmen Shahbazyan vs. Brunno Ferreira (Middleweight, Early Prelims)",Edmen Shahbazyan,Brunno Ferreira,0.635,1,2026-09-20T03:59:59.999Z
+"UFC 331: Casey O'Neill vs. Eduarda Moura (Women's Flyweight, Early Prelims)",Casey O'Neill,Eduarda Moura,0.675,1,2026-09-20T03:59:59.999Z
+"UFC 331: Giga Chikadze vs. Joanderson Brito (Featherweight, Early Prelims)",Giga Chikadze,Joanderson Brito,0.215,0,2026-09-20T03:59:59.999Z
+"Dana White's Contender Series: Zevan Hunt vs. Mayton Perea (Welterweight, Main Card)",Zevan Hunt,Mayton Perea,0.475,0,2026-09-16T03:59:59.999Z
+"Dana White's Contender Series: Oscar Ravello vs. Igor Cavalcanti (Middleweight, Main Card)",Oscar Ravello,Igor Cavalcanti,0.295,0,2026-09-16T03:59:59.999Z
+"Dana White's Contender Series: Ednilson Santos vs. Akbar Abdullaev (Lightweight, Main Card)",Ednilson Santos,Akbar Abdullaev,0.07,0,2026-09-16T03:59:59.999Z
+"Dana White's Contender Series: Hugo Guillon vs. Luis Hernandez (Middleweight, Main Card)",Hugo Guillon,Luis Hernandez,0.635,0,2026-09-16T03:59:59.999Z
+"Dana White's Contender Series: Antonio Monteiro vs. Tyshawn Williams (Featherweight, Main Card)",Antonio Monteiro,Tyshawn Williams,0.287,0,2026-09-16T03:59:59.999Z
+"UFC Fight Night: Raoni Barcelos vs. Raul Rosas Jr. (Bantamweight, Main Card)",Raoni Barcelos,Raul Rosas Jr.,0.415,0,2026-09-27T03:59:59.999Z
+"UFC Fight Night: Robert Bryczek vs. Rodolfo Vieira (Middleweight, Main Card)",Robert Bryczek,Rodolfo Vieira,0.385,0,2026-09-27T03:59:59.999Z
+"UFC Fight Night: Brady Hiestand vs. Rinya Nakamura (Bantamweight, Main Card)",Brady Hiestand,Rinya Nakamura,0.245,1,2026-09-27T03:59:59.999Z
+"UFC Fight Night: Ilimbek Akylbek Uulu vs. Mehemmedeli Osmanli (Bantamweight, Main Card)",Ilimbek Akylbek Uulu,Mehemmedeli Osmanli,0.275,1,2026-09-27T03:59:59.999Z
+"UFC Fight Night: Valesca Machado vs. Melissa Amaya (Women's Strawweight, Main Card)",Valesca Machado,Melissa Amaya,0.675,1,2026-09-27T03:59:59.999Z
+"UFC Fight Night: Elves Brener vs. Josiah Harrell (Lightweight, Main Card)",Elves Brener,Josiah Harrell,0.455,1,2026-09-27T03:59:59.999Z
+"UFC Fight Night: Christian Edwards vs. Rodolfo Bellato (Light Heavyweight, Prelims)",Christian Edwards,Rodolfo Bellato,0.365,1,2026-09-27T03:59:59.999Z
+"UFC Fight Night: Ricky Simon vs. Montel Jackson (Bantamweight, Prelims)",Ricky Simon,Montel Jackson,0.325,0,2026-09-27T03:59:59.999Z
+"UFC Fight Night: Alatengheili vs. John Castaneda (Bantamweight, Prelims)",Alatengheili,John Castaneda,0.225,1,2026-09-27T03:59:59.999Z
+"UFC Fight Night: Norma Dumont vs. Ailin Perez (Women's Bantamweight, Prelims)",Norma Dumont,Ailin Perez,0.395,0,2026-09-27T03:59:59.999Z
+"UFC Fight Night: Vanessa Demopoulos vs. Yazmin Jauregui (Women's Strawweight, Prelims)",Vanessa Demopoulos,Yazmin Jauregui,0.115,0,2026-09-27T03:59:59.999Z
+"Dana White's Contender Series: Norbert Növényi Jr. vs. Theo Haig (Middleweight, Main Card)",Norbert Növényi Jr.,Theo Haig,0.785,1,2026-09-23T03:59:59.999Z
+"Dana White's Contender Series: Jaden Ortega vs. Alvi Dasuyev (Welterweight, Main Card)",Jaden Ortega,Alvi Dasuyev,0.345,0,2026-09-23T03:59:59.999Z
+"Dana White's Contender Series: Paris Moran vs. Marcos Degli (Flyweight, Main Card)",Paris Moran,Marcos Degli,0.23,0,2026-09-23T03:59:59.999Z
+"Dana White's Contender Series: Callum Connor vs. Piero Guaylupo (Lightweight, Main Card)",Callum Connor,Piero Guaylupo,0.485,0,2026-09-23T03:59:59.999Z
+"Dana White's Contender Series: Damian Piwowarczyk vs. Emilio Quissua (Light Heavyweight, Main Card)",Damian Piwowarczyk,Emilio Quissua,0.55,1,2026-09-23T03:59:59.999Z
+"UFC 332: Natalia Silva vs. Wang Cong (Women's Flyweight, Main Card)",Natalia Silva,Wang Cong,0.645,1,2026-10-04T03:59:59.999Z
+"UFC 332: Deiveson Figueiredo vs. Payton Talbott (Bantamweight, Main Card)",Deiveson Figueiredo,Payton Talbott,0.145,0,2026-10-04T03:59:59.999Z
+"UFC 332: King Green vs. Esteban Ribovics (Lightweight, Main Card)",King Green,Esteban Ribovics,0.345,0,2026-10-04T03:59:59.999Z
+"UFC 332: Roberto Soldic vs. Khaos Williams (Welterweight, Main Card)",Roberto Soldic,Khaos Williams,0.665,1,2026-10-04T03:59:59.999Z
+"UFC 332: Roman Kopylov vs. Ateba Gautier (Middleweight, Main Card)",Roman Kopylov,Ateba Gautier,0.315,1,2026-10-04T03:59:59.999Z
+"UFC 332: Alden Coria vs. Imanol Rodriguez (Flyweight, Prelims)",Alden Coria,Imanol Rodriguez,0.435,0,2026-10-04T03:59:59.999Z
+"UFC 332: Andrey Pulyaev vs. Damian Pinas (Middleweight, Prelims)",Andrey Pulyaev,Damian Pinas,0.175,0,2026-10-04T03:59:59.999Z
+"UFC 332: Johnny Walker vs. Mick Parkin (Heavyweight, Early Prelims)",Johnny Walker,Mick Parkin,0.505,1,2026-10-04T03:59:59.999Z
+"UFC 332: Rafael Dos Anjos vs. Alexander Hernandez (Lightweight, Early Prelims)",Rafael Dos Anjos,Alexander Hernandez,0.285,0,2026-10-04T03:59:59.999Z
+"UFC 332: Marvin Vettori vs. Ismail Naurdiev (Middleweight, Early Prelims)",Marvin Vettori,Ismail Naurdiev,0.445,0,2026-10-04T03:59:59.999Z
+"UFC 332: Court McGee vs. Eric Nolan (Welterweight, Early Prelims)",Court McGee,Eric Nolan,0.325,0,2026-10-04T03:59:59.999Z
+"UFC 332: Anthony Wint vs. Lucas Armand (Heavyweight, Early Prelims)",Anthony Wint,Lucas Armand,0.805,1,2026-10-04T03:59:59.999Z
+"Dana White's Contender Series: George Staines vs. Loai Abushaar (Lightweight, Main Card)",George Staines,Loai Abushaar,0.745,1,2026-09-30T03:59:59.999Z
+"Dana White's Contender Series: Zaurbek Sabanov vs. Adama Diop (Heavyweight, Main Card)",Zaurbek Sabanov,Adama Diop,0.765,0,2026-09-30T03:59:59.999Z
+"Dana White's Contender Series: Camila Reynoso vs. Aieza Bertolso (Women's Strawweight, Main Card)",Camila Reynoso,Aieza Bertolso,0.215,0,2026-09-30T03:59:59.999Z
+"Dana White's Contender Series: Ilias Bulaid vs. Erick Visconde (Featherweight, Main Card)",Ilias Bulaid,Erick Visconde,0.605,0,2026-10-14T03:59:59.999Z
+"UFC Fight Night: Sedriques Dumas vs. Luis Hernandez (Light Heavyweight, Main Card)",Sedriques Dumas,Luis Hernandez,0.305,0,2026-09-27T03:59:59.999Z
+"UFC Fight Night: Brendan Allen vs. Christian Leroy Duncan (Middleweight, Main Card)",Brendan Allen,Christian Leroy Duncan,0.525,1,2026-10-11T03:59:59.999Z
+"UFC Fight Night: Ismael Bonfim vs. Francisco Prado (Welterweight, Prelims)",Ismael Bonfim,Francisco Prado,0.435,0,2026-10-11T03:59:59.999Z
+"UFC 332: Jacobe Smith vs. Bruce Whitehead (Welterweight, Early Prelims)",Jacobe Smith,Bruce Whitehead,0.885,1,2026-10-04T03:59:59.999Z
+"UFC Fight Night: Jai Herbert vs. Matheus Camilo (Lightweight, Main Card)",Jai Herbert,Matheus Camilo,0.365,1,2026-10-11T03:59:59.999Z
+"UFC Fight Night: Ketlen Souza vs. Loopy Godínez (Women's Strawweight, Main Card)",Ketlen Souza,Loopy Godínez,0.315,0,2026-10-11T03:59:59.999Z
+"UFC Fight Night: Andre Fili vs. Kai Kamaka III (Featherweight, Main Card)",Andre Fili,Kai Kamaka III,0.585,1,2026-10-11T03:59:59.999Z
+"UFC Fight Night: Gerald Meerschaert vs. Julius Walker (Light Heavyweight, Main Card)",Gerald Meerschaert,Julius Walker,0.265,0,2026-10-11T03:59:59.999Z
+"UFC Fight Night: Otari Tanzilovi vs. Malcolm Wellmaker (Bantamweight, Main Card)",Otari Tanzilovi,Malcolm Wellmaker,0.345,1,2026-10-11T03:59:59.999Z
+"UFC Fight Night: Niko Price vs. Leon Shahbazyan (Welterweight, Prelims)",Niko Price,Leon Shahbazyan,0.425,1,2026-10-11T03:59:59.999Z
+"UFC Fight Night: Brendson Ribeiro vs. Felipe Franco (Light Heavyweight, Prelims)",Brendson Ribeiro,Felipe Franco,0.225,1,2026-10-11T03:59:59.999Z
+"UFC Fight Night: Allen Frye Jr. vs. RJ Harris (Heavyweight, Prelims)",Allen Frye Jr.,RJ Harris,0.245,1,2026-10-11T03:59:59.999Z
+"UFC Fight Night: Daria Zhelezniakova vs. Alice Pereira (Women's Bantamweight, Prelims)",Daria Zhelezniakova,Alice Pereira,0.445,0,2026-10-11T03:59:59.999Z
+"UFC Fight Night: Mike Malott vs. Joaquin Buckley (Welterweight, Main Card)",Mike Malott,Joaquin Buckley,0.535,1,2026-10-18T03:59:59.999Z
+"UFC Fight Night: Erin Blanchfield vs. Jasmine Jasudavicius (Women's Flyweight, Main Card)",Erin Blanchfield,Jasmine Jasudavicius,0.755,0,2026-10-18T03:59:59.999Z
+"UFC Fight Night: Kyle Daukaus vs. Marc-Andre Barriault (Middleweight, Main Card)",Kyle Daukaus,Marc-Andre Barriault,0.635,0,2026-10-18T03:59:59.999Z
+"UFC Fight Night: Louis Jourdain vs. Timmy Cuamba (Bantamweight, Main Card)",Louis Jourdain,Timmy Cuamba,0.615,0,2026-10-18T03:59:59.999Z
+"UFC Fight Night: Nate Landwehr vs. Mandel Nallo (Lightweight, Main Card)",Nate Landwehr,Mandel Nallo,0.275,0,2026-10-18T03:59:59.999Z
+"UFC Fight Night: Tanner Boser vs. Jhonata Diniz (Heavyweight, Prelims)",Tanner Boser,Jhonata Diniz,0.335,1,2026-10-18T03:59:59.999Z
+"UFC Fight Night: Chad Anheliger vs. Steven Koslow (Bantamweight, Prelims)",Chad Anheliger,Steven Koslow,0.405,0,2026-10-18T03:59:59.999Z
+"UFC Fight Night: Chelsea Chandler vs. Melissa Croden (Women's Bantamweight, Prelims)",Chelsea Chandler,Melissa Croden,0.245,1,2026-10-18T03:59:59.999Z
+"UFC Fight Night: SuYoung You vs. Cody Chovancek (Bantamweight, Prelims)",SuYoung You,Cody Chovancek,0.465,1,2026-10-18T03:59:59.999Z
+"Dana White's Contender Series: Alivia Bierley vs. Summer Onley (Women's Bantamweight, Main Card)",Alivia Bierley,Summer Onley,0.335,1,2026-10-07T03:59:59.999Z
+"Dana White's Contender Series: Salhahuddin Everett vs. Ozzy Martin (Welterweight, Main Card)",Salhahuddin Everett,Ozzy Martin,0.585,1,2026-10-07T03:59:59.999Z
+"Dana White's Contender Series: Roque Conceição vs. Alexander Chavez (Flyweight, Main Card)",Roque Conceição,Alexander Chavez,0.465,1,2026-10-07T03:59:59.999Z
+"Dana White's Contender Series: Mateus Soares vs. Ryuho Miyaguchi (Bantamweight, Main Card)",Mateus Soares,Ryuho Miyaguchi,0.74,1,2026-10-07T03:59:59.999Z
+"Dana White's Contender Series: Preston LaGrange vs. Nell Ariano (Light Heavyweight, Main Card)",Preston LaGrange,Nell Ariano,0.195,1,2026-10-07T03:59:59.999Z
+"Dana White's Contender Series: Will Rentz vs. Luis Francischinelli (Welterweight, Main Card)",Will Rentz,Luis Francischinelli,0.315,0,2026-10-14T03:59:59.999Z
+"Dana White's Contender Series: Davi Cabral vs. Douglas da Lapa (Middleweight, Main Card)",Davi Cabral,Douglas da Lapa,0.375,0,2026-10-14T03:59:59.999Z
+"UFC Fight Night: Kyle Nelson vs. Cristian Pérez (Lightweight, Main Card)",Kyle Nelson,Cristian Pérez,0.255,0,2026-10-18T03:59:59.999Z
+"UFC Fight Night: Javad Mahjoub vs. Joel Faglier (Heavyweight, Prelims)",Javad Mahjoub,Joel Faglier,0.445,0,2026-10-18T03:59:59.999Z
+"UFC Fight Night: Julien LeBlanc vs. Nick Galanti (Middleweight, Prelims)",Julien LeBlanc,Nick Galanti,0.15,0,2026-10-18T03:59:59.999Z
+"UFC Fight Night: Katlyn Cerminara vs. Mackenzie Stiller (Women's Flyweight, Prelims)",Katlyn Cerminara,Mackenzie Stiller,0.685,1,2026-10-18T03:59:59.999Z
