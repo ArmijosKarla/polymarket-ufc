@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Polymarket UFC: calibración</title>
+  <style>
+    body { font-family: system-ui, sans-serif; max-width: 760px; margin: 2rem auto; padding: 0 1rem; line-height: 1.6; color: #222; }
+    img { max-width: 100%; }
+    table { border-collapse: collapse; width: 100%; margin: 1rem 0; }
+    th, td { border: 1px solid #ccc; padding: 6px 10px; text-align: right; }
+    th { background: #f3f3f3; }
+  </style>
+</head>
+<body>
+  <h1>Polymarket UFC: ¿qué tan bien calibrado está el mercado?</h1>
+  <p>Cuando el mercado asigna 70 % de probabilidad a un favorito, ¿gana realmente alrededor del 70 % de las veces? Análisis de 1.002 peleas de UFC (abril de 2024 a octubre de 2026).</p>
+
+  <img src="calibracion.png" alt="Curva de calibración de Polymarket en UFC">
+
+  <ul>
+    <li>Favoritos que ganaron: 69,0 %, frente a 67,8 % de probabilidad media asignada.</li>
+    <li>Brier score del mercado: 0,2016 (IC 95 %: 0,191 a 0,213), frente a 0,25 de predecir siempre 50 %.</li>
+    <li>Conclusión: no hay evidencia estadística de descalibración.</li>
+  </ul>
+
+  <table>
+    <tr><th>Grupo</th><th>Peleas</th><th>Mercado dice</th><th>Real</th></tr>
+    <tr><td>1</td><td>215</td><td>54,1 %</td><td>53,5 %</td></tr>
+    <tr><td>2</td><td>208</td><td>61,6 %</td><td>63,0 %</td></tr>
+    <tr><td>3</td><td>183</td><td>67,4 %</td><td>68,3 %</td></tr>
+    <tr><td>4</td><td>201</td><td>74,0 %</td><td>74,6 %</td></tr>
+    <tr><td>5</td><td>195</td><td>83,4 %</td><td>87,2 %</td></tr>
+  </table>
+
+  <p><a href="https://github.com/ArmijosKarla/polymarket-ufc">Código y método completo en GitHub</a></p>
+</body>
+</html>
